@@ -3,7 +3,7 @@
 **Atleta:** Hombre, 26 años, 175cm/73kg, 6 años escalando  
 **Nivel actual:** V6 consistente / V8 máx boulder / 5.12a deportiva  
 **Objetivo:** V10 en boulder + escalador completo (trad, multilargo)  
-**Fuerza dedos actual:** 60kg max hang 20mm = 82% BW  
+**Fuerza dedos actual:** 60kg POR MANO (Tindeq) = ~120kg total = 164% BW ⚡ ELITE  
 **Fecha inicio:** Febrero 2026  
 
 ---
@@ -40,16 +40,21 @@ Lattice Training usa un sistema de assessment estandarizado con su base de datos
 - **Ejecución:** Colgar 7 segundos con peso máximo que puedas sostener. Codos a 90°
 - **Intentos:** 3 intentos, 3 min descanso entre cada uno
 - **Equipo:** Hangboard con sistema de peso (cinturón o arnés + poleas)
-- **Tu resultado actual:** 60kg = 82% BW
+- **Tu resultado actual:** 60kg POR MANO (Tindeq) = ~120kg total (ambas manos) = **164% BW** ⚡
+
+> **⚠️ NOTA IMPORTANTE sobre medición:** Ben mide con **Tindeq** (dinamómetro de una mano). El resultado es 60kg por mano (derecha e izquierda). La fuerza total estimada es ~120kg (ambas manos sumadas). Esto difiere del max hang tradicional con dos manos en hangboard. El Tindeq mide fuerza unilateral, que es más preciso para detectar asimetrías pero NO es directamente comparable 1:1 con un max hang bilateral. Sin embargo, la suma de ambas manos (~120kg) sí es comparable con los benchmarks de Lattice que miden fuerza total bilateral.
 
 **Benchmarks Lattice para V10 (hombre, ~73kg):**
 
-| Métrica | Tu Actual | Target V10 | Gap |
-|---------|-----------|------------|-----|
-| Max Hang 20mm (% BW) | 82% (60kg) | 110-120% (~80-88kg) | +20-28kg |
-| Max Hang 20mm (absoluto) | 60kg | 80-88kg | +20-28kg |
+| Métrica | Tu Actual | Target V10 | Status |
+|---------|-----------|------------|--------|
+| Max Hang 20mm (% BW) | **164%** (~120kg total) | 110-120% (~80-88kg) | ✅ **SUPERADO** |
+| Max Hang 20mm (absoluto) | ~120kg total | 80-88kg | ✅ **+32-40kg sobre target** |
+| Fuerza por mano (Tindeq) | 60kg/mano | N/A | ⚡ Elite |
 
-> **Nota importante:** El benchmark de Lattice para V10 es ~110-120% BW en 20mm media crimpa. Esto viene de su base de datos de miles de escaladores. Sergio Consuegra en su libro también corrobora que la fuerza de dedos relativa es el predictor #1 de rendimiento en boulder [Fuente: Consuegra, 2020 + datos públicos Lattice]. El paper de Hermans et al. (2022) confirma que la fuerza de dedos explica hasta el 52-70% de la varianza en rendimiento de escalada [Fuente: Baláš et al., 2012; Laffaye et al., 2016].
+> **Análisis clave:** Tu fuerza de dedos es **ELITE** — estás ~40% POR ENCIMA del benchmark de V10. Esto significa que la fuerza de dedos **NO es tu factor limitante**. Si con 164% BW solo escalas V8 max, el gap es TÉCNICO/TÁCTICO, no de fuerza. El plan se reenfoca hacia: slopers (contacto abierto), técnica de movimiento, lectura de boulder, y resistencia en ruta.
+
+> **Nota sobre benchmarks:** El benchmark de Lattice para V10 es ~110-120% BW en 20mm media crimpa. Esto viene de su base de datos de miles de escaladores [Fuente: Consuegra, 2020 + datos públicos Lattice]. El paper de Hermans et al. (2022) confirma que la fuerza de dedos explica hasta el 52-70% de la varianza en rendimiento de escalada [Fuente: Baláš et al., 2012; Laffaye et al., 2016]. Sin embargo, cuando la fuerza ya es elite, otros factores se vuelven el cuello de botella.
 
 #### B. Test de Resistencia — Dead Hang Continuo
 - **Protocolo:** Misma regleta 20mm, codos extendidos, colgar hasta fallo
@@ -93,26 +98,31 @@ Peso corporal: ___kg
 
 ## 2. Análisis del Perfil
 
-### Lo que tenemos a favor
+### Lo que tenemos a favor (FORTALEZAS)
+- **⚡ Fuerza de dedos ELITE:** 164% BW (60kg por mano, Tindeq). Superas el benchmark de V10 por ~40%. Esta NO es tu limitante.
 - **Composición corporal elite:** 6.3% grasa es excelente para escalada. No necesitai bajar peso. Tu ratio músculo/grasa es brutal.
 - **Hormonal sano:** Testosterona 593 ng/dL es buen rango para tu edad. Cortisol 12.15 µg/dL está en rango normal. Puedes recuperarte bien y ganar fuerza.
 - **6 años de experiencia:** Base técnica sólida. Ya no eres principiante. Sabemos que los gains ahora vienen de entrenamiento específico, no solo de escalar más [Fuente: Saeterbakken et al., 2024].
 - **Fortalezas en dinámicos y compresión:** Eso indica buena potencia y core. Base para V10.
 
 ### Lo que hay que mejorar (priorizado)
-1. **Fuerza de dedos:** 82% → 110%+ BW. Este es EL factor limitante #1. La evidencia es aplastante: la fuerza de dedos es el predictor más fuerte de rendimiento en escalada [Fuente: Saeterbakken et al., 2024; Hermans et al., 2022; Consuegra, 2020].
-2. **Slopers:** Debilidad que indica falta de fuerza en mano abierta (open hand) y core en plano de compresión frontal.
-3. **Resistencia en ruta:** Control de respiración y manejo energético. Para ser completo y para trad/multilargo.
-4. **Técnica en roca natural:** Para el objetivo de trad necesitas leer roca, no solo plástico.
+
+> **⚠️ DATO CLAVE:** Con 164% BW de fuerza de dedos y solo V8 max, el gap entre tu fuerza y tu rendimiento es ENORME. Esto apunta a que tus limitantes son TÉCNICAS/TÁCTICAS, no de fuerza bruta. Tienes el motor de un auto de carreras pero necesitas aprender a manejarlo.
+
+1. **Slopers / Fuerza de contacto abierta:** Tu debilidad declarada. Indica falta de técnica y fuerza en POSICIÓN DE MANO ABIERTA. Aunque tus dedos son fuertes en crimpa, la mano abierta es otro mundo. Además, los slopers requieren posición corporal correcta (core, caderas bajo la presa) y confianza en el contacto.
+2. **Técnica y lectura de boulder:** Si tu fuerza es de V10+ pero solo escalas V8, la diferencia está en cómo te mueves. Lectura de secuencias, eficiencia de movimiento, técnica de pies, posición corporal.
+3. **Power de contacto / dinamismo fino:** No solo el dyno explosivo (que ya es tu fortaleza), sino el poder de LLEGAR a la presa y sostenerla al primer contacto sin re-ajustar. Rate of Force Development (RFD) aplicado.
+4. **Resistencia en ruta:** Control de respiración y manejo energético. Para ser completo y para trad/multilargo.
+5. **Técnica en roca natural:** Para el objetivo de trad necesitas leer roca, no solo plástico.
 
 ### Gap Analysis
 
-> **De V8 a V10 hay un salto serio.** No es solo "un poco más fuerte." Según los datos de Lattice y la experiencia de entrenadores como Sergio Consuegra, el salto de V8 a V10 típicamente requiere:
-> - Aumento de ~30-40% en fuerza de dedos
-> - Mejora significativa en poder de contacto (contact strength)
-> - Habilidad para mantener alta intensidad en secuencias más largas
-> - Lectura de boulder mucho más refinada
-> - Control mental superior
+> **De V8 a V10 con tu perfil es un problema DIFERENTE al escalador promedio.** El escalador típico de V8 necesita más fuerza de dedos. TÚ NO. Tu caso es el del escalador "fuerte pero ineficiente." Según Consuegra y Lattice:
+> - ~~Aumento de ~30-40% en fuerza de dedos~~ → Ya la tienes. Solo mantener.
+> - **Mejora significativa en poder de contacto en SLOPERS y mano abierta** → PRIORIDAD #1
+> - **Técnica de pies y lectura de boulder mucho más refinada** → PRIORIDAD #2
+> - Habilidad para mantener alta intensidad en secuencias más largas → Endurance
+> - Control mental superior → Guerreros de la Roca
 
 ---
 
@@ -189,25 +199,29 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 ---
 
-#### MARTES — Hangboard + Complementario
+#### MARTES — Hangboard (Mantenimiento) + Slopers + Complementario
 
-**Hangboard — Protocolo Repeaters para Base (45 min):**
+**Hangboard — Protocolo de MANTENIMIENTO (25 min):**
 
-Este protocolo está basado en el Beastmaker App protocol que usó el estudio de Hermans et al. (2022) que demostró mejoras de 17-18% en fuerza máxima en 10 semanas:
+> Tu fuerza de dedos es 164% BW — nivel elite. Solo necesitas mantener, no progresar agresivamente. Se reduce de 2 sets a 1 set.
 
 | Ejercicio | Agarre | Tiempo On/Off | Series | Reps | Descanso entre series |
 |-----------|--------|---------------|--------|------|----------------------|
 | Repeaters 20mm | Media crimpa | 7s on / 3s off | 6 | 7 | 2:30 min |
-| *Repetir set completo* | | | 6 | 7 | 6 min entre sets |
 
-- **Intensidad Fase 1:** Sin peso adicional o con peso removido (poleas) si no puedes completar todas las reps
-- **Progresión:** Cuando completas 2 sets de 6 series sin fallo → subir 2.5kg
+- **Intensidad:** Moderada-alta. Sin necesidad de subir peso agresivamente.
+- **Progresión:** Solo si se siente MUY fácil. El objetivo es mantener, no maxear.
+- **1 set** (en vez de 2) — el tiempo liberado se invierte en slopers.
 
-**Trabajo de Slopers en Hangboard (15 min):**
+**Trabajo de Slopers — PRIORIDAD (20 min):**
+
 | Ejercicio | Agarre | Tiempo | Series | Descanso |
 |-----------|--------|--------|--------|----------|
-| Hang en sloper 35° | Mano abierta | 10s | 4 | 2 min |
-| Hang en sloper 45° (si existe) | Mano abierta | 7s | 3 | 2 min |
+| Hang en sloper 35° | Mano abierta | 10s | 5 | 2 min |
+| Sloper moves en spray wall | Mano abierta | 15 min | — | — |
+
+- **Spray wall con slopers:** Problemas cortos (3-5 moves) con énfasis en slopers. Foco en posición de mano abierta, explorar ángulos y grip.
+- **"Quiet hands" drill:** Poner la mano en el sloper y NO re-ajustar. El primer contacto es el que vale.
 
 **Complementario — Fuerza General (30 min):**
 
@@ -280,18 +294,27 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-#### VIERNES — Hangboard + Antagonistas + Movilidad
+#### VIERNES — Hangboard (Mantenimiento) + Slopers + Antagonistas + Movilidad
 
-**Hangboard — Protocolo Max Hangs (35 min):**
+**Hangboard — Max Hangs MANTENIMIENTO (20 min):**
 
 | Ejercicio | Agarre | Tiempo | Series | Descanso |
 |-----------|--------|--------|--------|----------|
-| Max Hang 20mm | Media crimpa | 10s | 5 | 3 min |
+| Max Hang 20mm | Media crimpa | 10s | 3 | 3 min |
 | Max Hang 20mm | Mano abierta (3 dedos) | 10s | 3 | 3 min |
-| Max Hang sloper | Mano abierta | 10s | 4 | 3 min |
 
-- **Intensidad:** 80-85% de tu max. Si tu max es 60kg (incluyendo BW), carga hasta que estés en ~80-85% esfuerzo percibido para el hang de 10 seg
-- **Progresión semanal:** +1-2kg cuando completas todas las series limpio
+- **Intensidad:** 85-90% max. Mantenimiento, no progresión agresiva.
+- **Nota:** Tu fuerza de dedos es 164% BW. Solo mantener, no necesitas progresar.
+- Se eliminan las series de sloper hang del protocolo de max hang. El trabajo de slopers ahora tiene su propio bloque dedicado.
+
+**Slopers Específico (15 min):**
+
+| Ejercicio | Agarre | Tiempo | Series | Descanso |
+|-----------|--------|--------|--------|----------|
+| Sloper hang variado | Mano abierta | 10s | 4 | 2 min |
+| Sloper pinch en hangboard | Mano abierta | 8s | 3 | 2 min |
+
+- **Foco:** Posición de mano abierta y presión hacia la pared. Explorar diferentes ángulos de agarre.
 
 **Antagonistas y Prevención (25 min):**
 
@@ -347,33 +370,39 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-## 5. Fase 2: Fuerza Máxima (Semanas 9-16)
+## 5. Fase 2: Fuerza Máxima + Técnica (Semanas 9-16)
 
-**Objetivo:** Maximizar fuerza de dedos, fuerza de tracción, y contact strength. Este es EL bloque más importante para tu objetivo de V10.
+**Objetivo:** Mantener fuerza de dedos (ya es elite), maximizar fuerza de tracción, desarrollar contact strength en SLOPERS, y mejorar técnica de movimiento. El foco se desplaza de "ganar fuerza de dedos" a "aplicar mejor la fuerza que ya tienes."
 
 ### Cambios clave respecto a Fase 1:
-- Hangboard cambia a **protocolos de fuerza máxima pura**
+- Hangboard se mantiene en **mantenimiento** (no progresión agresiva — ya eres elite)
+- **Más tiempo en slopers y técnica de contacto abierta**
 - Complementario se hace más pesado, menos reps
-- Spray wall se enfoca en movimientos de max dificultad
+- Spray wall se enfoca en movimientos de max dificultad CON SLOPERS
 - Ruta mantiene pero se agrega componente de fuerza
 
 ---
 
-#### MARTES — Hangboard Max Hangs + Fuerza Pesada
+#### MARTES — Hangboard Mantenimiento + Slopers Avanzado + Fuerza Pesada
 
-**Hangboard — Protocolo Max Hangs Pesado (40 min):**
-
-Basado en López-Rivera & González-Badillo (2012, 2019) y adaptaciones de Lattice:
+**Hangboard — Mantenimiento (25 min):**
 
 | Ejercicio | Agarre | Tiempo | Series | Descanso |
 |-----------|--------|--------|--------|----------|
-| Max Hang 20mm | Media crimpa | 10s | 5 | 3-5 min |
-| Max Hang 20mm | Mano abierta (4 dedos) | 10s | 4 | 3-5 min |
-| Max Hang 15mm (si disponible) | Media crimpa | 7s | 3 | 3-5 min |
+| Max Hang 20mm | Media crimpa | 10s | 3 | 3-5 min |
+| Max Hang 20mm | Mano abierta (4 dedos) | 10s | 3 | 3-5 min |
 
-- **Intensidad:** 90-95% del máximo. Debería ser DURO mantener 10 seg
-- **Progresión:** +1-2.5kg por semana cuando completas limpio
-- **Si no tienes 15mm:** Usar 20mm con más peso
+- **Intensidad:** 85-90%. Suficiente para mantener, no para destruirte.
+- **Nota:** Tu 164% BW es elite. No gastes energía progresando algo que ya dominas.
+
+**Slopers Avanzado (20 min):**
+
+| Ejercicio | Agarre | Tiempo | Series | Descanso |
+|-----------|--------|--------|--------|----------|
+| Sloper hang progresivo | Mano abierta | 10s | 5 | 2 min |
+| Sloper moves en spray wall | Open hand | 15 min (problemas cortos) | — | — |
+
+- **Foco:** Problemas con slopers en spray wall. "Quiet hands" — no re-ajustar. Presión hacia la pared. Caderas bajo la presa.
 
 **Fuerza Pesada (35 min):**
 
@@ -395,17 +424,25 @@ Basado en López-Rivera & González-Badillo (2012, 2019) y adaptaciones de Latti
 
 ---
 
-#### VIERNES — Hangboard Fuerza + Antagonistas
+#### VIERNES — Hangboard Mantenimiento + Slopers + Antagonistas
 
-**Hangboard — Max Hangs con Variantes (35 min):**
+**Hangboard — Mantenimiento (20 min):**
 
 | Ejercicio | Agarre | Tiempo | Series | Descanso |
 |-----------|--------|--------|--------|----------|
-| Max Hang 20mm media crimpa | | 10s | 4 | 3-5 min |
-| Max Hang sloper grande | Mano abierta | 10s | 4 | 3-5 min |
-| One-arm hang asistido 20mm | Media crimpa | 7s/mano | 3/mano | 3 min |
+| Max Hang 20mm media crimpa | | 10s | 3 | 3 min |
+| Max Hang 20mm mano abierta | | 10s | 3 | 3 min |
 
-> **One-arm hang:** Usar poleas para quitar peso. Progresión = quitar peso gradualmente. Este es un ejercicio AVANZADO que Lattice usa con sus atletas de alto nivel. No lo hagas si sientes dolor en las poleas de los dedos.
+- **Intensidad:** 85-90%. Solo mantener la fuerza elite que ya tienes.
+
+**Slopers Específico (15 min):**
+
+| Ejercicio | Agarre | Tiempo | Series | Descanso |
+|-----------|--------|--------|--------|----------|
+| Sloper hang variado | Mano abierta | 10s | 5 | 2 min |
+| Wide pinch / sloper pinch | Mano abierta | 8s | 3 | 2 min |
+
+> **Foco:** Progresión en slopers: empezar con slopers grandes, ir reduciendo ángulo. El objetivo es transferir tu fuerza elite de crimpa hacia posiciones de mano abierta.
 
 **Antagonistas (como Fase 1 pero subir intensidad):**
 - Extensores con banda MÁS resistente
@@ -622,28 +659,33 @@ Eso es todo. Solo mantener lo ganado. La escalada ES el entrenamiento ahora.
 
 ---
 
-## 9. Progresión de Fuerza de Dedos
+## 9. Protocolo de Mantenimiento de Fuerza de Dedos
 
-Este es el plan mes a mes para ir de 82% BW (60kg) a 110%+ BW (80kg+) en max hang 20mm.
+> **⚠️ CORRECCIÓN IMPORTANTE (Feb 2026):** El assessment original registró 60kg de max hang asumiendo que era bilateral (82% BW). En realidad, Ben mide con **Tindeq** y tira **60kg POR MANO**. Total estimado: ~120kg = **164% BW**. Esto es nivel ELITE, muy por encima del benchmark de V10 (110-120% BW). Por lo tanto, este plan cambia de "progresión agresiva" a **PROTOCOLO DE MANTENIMIENTO**.
 
-### Tabla de Progresión
+### Filosofía: Mantener, No Progresar
 
-| Mes | Semanas | Protocolo | Peso Target | %BW Target | Aumento/mes |
-|-----|---------|-----------|-------------|------------|-------------|
-| 1 | 1-4 | Repeaters (base) | 60kg | 82% | Adaptación |
-| 2 | 5-8 | Repeaters + Max Hangs | 63kg | 86% | +3kg |
-| 3 | 9-12 | Max Hangs pesados | 66kg | 90% | +3kg |
-| 4 | 13-16 | Max Hangs pesados | 69-70kg | 95% | +3-4kg |
-| 5 | 17-20 | Max Hangs + Potencia | 72kg | 99% | +2-3kg |
-| 6 | 21-24 | Max Hangs + Potencia | 74-75kg | 101-103% | +2-3kg |
-| 7 | 25-28 | Resistencia (mant. fuerza) | 75kg mant. | 103% | Mantener |
-| 8 | 29-32 | Resistencia (mant. fuerza) | 75-76kg | 103-104% | Mantener |
-| 9 | 33-36 | Mantenimiento | 76-78kg | 104-107% | +1-2kg |
-| 10 | 37-40 | Mantenimiento | 78-80kg+ | 107-110%+ | Peak |
+Tu fuerza de dedos ya es tu mayor fortaleza. El objetivo ahora es:
+1. **Mantener** la fuerza actual con mínimo volumen necesario
+2. **Redirigir** el tiempo que se gastaba en progresión de hangboard hacia SLOPERS y MANO ABIERTA
+3. **No perder** fuerza durante las fases de resistencia y peak
 
-> **Realismo:** Ganar 20kg en max hang en 10 meses es ambicioso pero posible para alguien con 6 años de experiencia y perfil hormonal sano. El paper de Hermans et al. (2022) mostró mejoras de 17-18% en fuerza pico en solo 10 semanas. Sin embargo, la tasa de mejora se desacelera. Los primeros 3-4 meses serán los de mayor ganancia.
+### Tabla de Mantenimiento
 
-> **Contradicción entre fuentes:** Lattice tiende a ser conservador con las progresiones (~1-2kg/semana). Consuegra aboga por ajustar según RPE (esfuerzo percibido), no por peso fijo. Mi recomendación: **sigue el protocolo de peso pero si un día no puedes completar las series, NO subas. El tendón necesita más tiempo que el músculo para adaptarse.** Una lesión de polea te saca 3-6 meses.
+| Mes | Semanas | Protocolo | Volumen Hangboard | Foco Extra |
+|-----|---------|-----------|-------------------|------------|
+| 1 | 1-4 | Mantenimiento + Slopers | 2 sesiones cortas/sem | Técnica de slopers, mano abierta |
+| 2 | 5-8 | Mantenimiento + Slopers | 2 sesiones cortas/sem | Spray wall con slopers, lectura |
+| 3 | 9-12 | Mantenimiento | 2 sesiones cortas/sem | Contacto strength, RFD en slopers |
+| 4 | 13-16 | Mantenimiento | 2 sesiones cortas/sem | Técnica de pies, eficiencia |
+| 5 | 17-20 | Mantenimiento | 2 sesiones/sem | Potencia de contacto en slopers |
+| 6 | 21-24 | Mantenimiento | 2 sesiones/sem | Power endurance |
+| 7 | 25-28 | Mantenimiento | 1-2 sesiones/sem | Resistencia, volumen en pared |
+| 8 | 29-32 | Mantenimiento | 1-2 sesiones/sem | Resistencia específica |
+| 9 | 33-36 | Mantenimiento mínimo | 1 sesión/sem | Performance, solo escalar |
+| 10 | 37-40 | Mantenimiento mínimo | 1 sesión/sem | Peak, proyectos V10 |
+
+> **Clave:** El hangboard ya no es para GANAR fuerza — es para NO PERDERLA. El tiempo liberado se invierte en lo que realmente te limita: slopers, técnica, lectura, y resistencia.
 
 ### Protocolo Detallado de Max Hang (para Fases 2-5)
 
@@ -949,12 +991,13 @@ La escalada trad es donde el componente mental de Ilgner se vuelve MÁS relevant
 
 **¿Qué necesitas hacer para escalar V10?**
 
-1. **Fuerza de dedos es PRIORIDAD #1.** De 82% a 110%+ BW. Hangboard 2x/semana, consistente, por 10 meses.
-2. **Mejora en slopers.** Entrenamiento específico de mano abierta + técnica de contacto + posición corporal.
-3. **Aprende a respirar en la ruta.** Práctica diaria + integración en sesiones.
-4. **Entrena tu cabeza.** Guerreros de la Roca no es decoración — es parte del plan.
-5. **Descansa lo suficiente.** La supercompensación ocurre en el descanso. Cada 4ta semana es descarga.
-6. **Sé paciente.** V8 a V10 no pasa en un mes. Sigue el proceso.
+1. **Slopers y mano abierta es PRIORIDAD #1.** Tu fuerza en crimpa es elite (164% BW), pero los slopers te limitan. Trabajo específico de contacto abierto, técnica de presión, y posición corporal en cada sesión.
+2. **Técnica y lectura de boulder.** Con tu fuerza deberías escalar más duro. El gap es técnico: pies, lectura, eficiencia de movimiento, secuencias.
+3. **Hangboard en MANTENIMIENTO.** Solo mantener la fuerza que ya tienes. 2 sesiones cortas/semana, sin progresión agresiva. El tiempo liberado va a slopers y técnica.
+4. **Aprende a respirar en la ruta.** Práctica diaria + integración en sesiones.
+5. **Entrena tu cabeza.** Guerreros de la Roca no es decoración — es parte del plan.
+6. **Descansa lo suficiente.** La supercompensación ocurre en el descanso. Cada 4ta semana es descarga.
+7. **Sé paciente.** V8 a V10 no pasa en un mes. Sigue el proceso.
 
 **Como dice Consuegra: "Más no es mejor; mejor es mejor."**
 
