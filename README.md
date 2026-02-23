@@ -1,5 +1,7 @@
 # Plan de Entrenamiento de Escalada — De V8 a V10
 
+> ⚠️ **ACTUALIZADO 23 FEB 2026:** Estructura semanal ajustada según feedback de Maco (coach). Solo 1 sesión de fuerza máxima en gym/semana. Lunes pasa a técnica/volumen. Sábado es la segunda sesión intensa (proyectos outdoor). 72hrs entre sesiones máximas. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
+
 **Atleta:** Hombre, 26 años, 175cm/73kg, 6 años escalando  
 **Nivel actual:** V6 consistente / V8 máx boulder / 5.12a deportiva  
 **Objetivo:** V10 en boulder + escalador completo (trad, multilargo)  
@@ -156,15 +158,20 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 ### Estructura Semanal Base (que se adapta a cada fase)
 
-| Día | Actividad Base | Notas |
-|-----|---------------|-------|
-| **Lunes PM** | Limit Bouldering (spray 35° con Andrew) | INAMOVIBLE |
-| **Martes** | Hangboard + Complementario | En casa/gym |
-| **Miércoles AM** | Fuerza máxima (spray 50° + moonboard con Maco) | INAMOVIBLE |
-| **Jueves** | Ruta con Vale (Mall Sport) | INAMOVIBLE |
-| **Viernes** | Hangboard + Antagonistas + Movilidad | En casa/gym |
-| **Sábado** | Roca outdoor / Trad | FDS |
-| **Domingo** | Descanso activo o descanso total | Recovery |
+> **Lógica del cambio (Maco, 23 feb 2026):** Solo 1 sesión de fuerza máxima en gym (miércoles). Lunes es técnica/volumen, NO limit bouldering. 72hrs entre sesiones máximas (mié→sáb). Sábado outdoor es la segunda sesión intensa (proyectos).
+
+| Día | Actividad Base | Intensidad | Notas |
+|-----|---------------|------------|-------|
+| **🟡 Lunes PM** | Técnica + Volumen (spray 35° con Andrew) | MODERADA | Lectura, pies, movimiento. NO reventar |
+| **🟡 Martes** | Hangboard + Complementario | MODERADA | En casa/gym |
+| **🔴 Miércoles AM** | Fuerza Máxima (spray 50° + moonboard con Maco) | MÁXIMA | LA sesión intensa #1 — INAMOVIBLE |
+| **🟡 Jueves** | Ruta con Vale (Mall Sport) | MODERADA | Enseñanza — INAMOVIBLE |
+| **🟢 Viernes** | Recovery — Antagonistas + Movilidad | BAJA | Recuperación activa |
+| **🔴 Sábado** | Outdoor — PROYECTO | MÁXIMA | Sesión intensa #2 (72hrs post miércoles) |
+| **🟢 Domingo** | Descanso total | — | Recovery |
+
+**INAMOVIBLES:** Lunes con Andrew, Miércoles con Maco, Jueves con Vale.
+**SESIONES INTENSAS:** Solo 2 por semana — Miércoles (gym) y Sábado (outdoor).
 
 ---
 
@@ -176,26 +183,29 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 ---
 
-#### LUNES PM (19-21h) — Limit Bouldering con Andrew | Spray 35°
+#### LUNES PM (19-21h) — Técnica + Volumen con Andrew | Spray 35°
+
+> ⚠️ **CAMBIO 23 FEB 2026:** Esta sesión pasa de "Limit Bouldering" a "Técnica/Volumen" por indicación de Maco. NO es sesión de fuerza máxima. El objetivo es lectura, pies, movimiento fluido. La fuerza máxima se reserva para el miércoles.
 
 **Calentamiento (20 min):**
 - 5 min traversa fácil
 - Escalada progresiva: 3 boulders fáciles → 3 boulders moderados
 - Movilidad de hombros y caderas en la pared
 
-**Bloque principal (70 min) — Limit Bouldering:**
-- Elegir 4-6 problemas en tu grado máximo o +1 (V7-V9)
-- **Método:** Trabajar movimientos individuales primero, luego link
-- **Intentos por problema:** 4-6 intentos máx, luego rotar
-- **Descanso entre intentos:** 3-5 min (MÍNIMO)
-- **Énfasis especial:** Incluir al menos 2 problemas con slopers
+**Bloque principal (70 min) — Técnica + Volumen:**
+- Spray 35° — problemas variados, foco en LECTURA de boulder
+- **Técnica de pies:** Precisión, confianza, pies silenciosos
+- **Movimiento fluido:** No forzar, buscar eficiencia
+- **Slopers:** Posición de mano abierta, presión hacia la pared
+- **Volumen moderado:** Muchos problemas, intensidad controlada (NO intentar límite)
+- **Énfasis especial:** Incluir problemas con slopers para técnica de contacto
 - Graba en video los problemas para análisis posterior
 
 **Vuelta a la calma (15 min):**
 - 3 boulders fáciles (2-3 grados bajo tu nivel)
 - Estiramiento: antebrazos, hombros, caderas, isquiotibiales
 
-> **Clave:** El limit bouldering NO es meter volumen. Es calidad sobre cantidad. Descansá lo suficiente entre intentos. Si tu rendimiento baja, para. [Fuente: Consuegra, 2020 — el entrenamiento de fuerza requiere descanso completo entre series]
+> **Clave:** Esta sesión NO es para reventar. Es técnica y volumen. Guardar la fuerza máxima para el miércoles con Maco. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
 
 ---
 
@@ -360,7 +370,7 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 | Día | Modificación |
 |-----|-------------|
-| Lunes | Limit bouldering pero bajar 2 grados, menos intentos |
+| Lunes | Técnica/Volumen pero bajar 2 grados, menos volumen, foco solo en técnica |
 | Martes | Solo hangboard repeaters a 50% volumen, sin complementario pesado |
 | Miércoles | Spray/moonboard pero problemas fáciles, enfoque técnico |
 | Jueves | Solo ARC training y rutas fáciles |
@@ -456,16 +466,17 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 #### Ajustes a sesiones de escalada en Fase 2:
 
-**Lunes (Spray 35° con Andrew):**
-- Subir grado de problemas: V8-V10 intentos
-- Énfasis en problemas con moves de contacto difícil
-- Permitir más descanso entre intentos (5 min)
-- Máximo 4-5 problemas en la sesión
+**Lunes (Spray 35° con Andrew) — Técnica/Volumen:**
+- Foco en técnica de movimiento y lectura, NO fuerza máxima
+- Problemas variados con énfasis en slopers y contacto abierto
+- Volumen moderado: muchos problemas, intensidad controlada
+- Técnica de pies refinada, "quiet feet"
 
-**Miércoles (Spray 50° + Moonboard con Maco):**
+**Miércoles (Spray 50° + Moonboard con Maco) — Fuerza Máxima:**
 - Spray 50°: Problemas de 3-4 moves de máxima dificultad
 - Moonboard: Empezar a intentar V7-V8 en moonboard
 - Énfasis en poder de contacto: llegar a la presa sin adjustar = entrenamiento de RFD (Rate of Force Development) [Fuente: Stien et al., 2021]
+- **Esta es LA sesión de fuerza máxima de la semana**
 
 **Jueves (Ruta):**
 - Mantener 1-2 rutas de ARC training
@@ -531,15 +542,16 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 #### Ajustes a sesiones de escalada en Fase 3:
 
-**Lunes (Spray 35° con Andrew):**
-- Foco en **flash attempts**: Estudiar el problema, 1-2 intentos máximo
-- Problemas de V7-V9, priorizar velocidad y lectura
-- Incluir problemas con dynos y deadpoints
+**Lunes (Spray 35° con Andrew) — Técnica/Volumen:**
+- Foco en **flash attempts**: Estudiar el problema, lectura rápida
+- Problemas variados con foco en técnica y movimiento fluido
+- Incluir problemas con slopers, dynos y deadpoints — pero como TÉCNICA, no fuerza máxima
 
-**Miércoles (Spray 50° + Moonboard con Maco):**
+**Miércoles (Spray 50° + Moonboard con Maco) — Fuerza Máxima/Potencia:**
 - Spray: Moves de contacto explosivo, slaps, jumps
 - Moonboard: Intentar V8-V9, foco en problemas dinámicos
 - Permitirte FALLAR — el fallo en el intento es parte del entrenamiento de potencia
+- **Esta es LA sesión intensa #1 de la semana**
 
 **Jueves (Ruta):**
 - Empezar a escalar rutas más difíciles: 5.12a-b
@@ -598,9 +610,10 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 
 #### Ajustes a sesiones de escalada en Fase 4:
 
-**Lunes (Spray 35° con Andrew):**
+**Lunes (Spray 35° con Andrew) — Técnica/Volumen:**
 - **4x4s:** Elegir 4 problemas de V4-V5, escalar los 4 seguidos sin descanso. Descansar 4 min. Repetir 4 rondas.
 - O circuitos largos en el spray (20-30 moves seguidos)
+- Foco en técnica y volumen, NO fuerza máxima
 
 **Miércoles (Spray 50° + Moonboard con Maco):**
 - Mantener algo de fuerza máxima: 40 min en spray/moonboard a grado alto
@@ -631,13 +644,13 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 
 | Día | Actividad | Intensidad |
 |-----|-----------|-----------|
-| Lunes | Limit bouldering (spray 35° con Andrew) — V9-V10 | MÁXIMA |
-| Martes | Hangboard mantenimiento (3 sets max hang) + movilidad | BAJA |
-| Miércoles | Fuerza máxima (spray 50° con Maco) — proyectos hard | MÁXIMA |
-| Jueves | Ruta con Vale — proyecto de grado | ALTA |
-| Viernes | Descanso o movilidad suave | RECUPERACIÓN |
-| Sábado | OUTDOOR — Proyectos V10 o trad | MÁXIMA |
-| Domingo | Descanso total | — |
+| 🟡 Lunes | Técnica + Volumen (spray 35° con Andrew) — lectura, pies, movimiento | MODERADA |
+| 🟡 Martes | Hangboard mantenimiento (3 sets max hang) + movilidad | BAJA |
+| 🔴 Miércoles | Fuerza máxima (spray 50° con Maco) — proyectos hard | MÁXIMA |
+| 🟡 Jueves | Ruta con Vale — proyecto de grado | MODERADA |
+| 🟢 Viernes | Recovery — Antagonistas + Movilidad | RECUPERACIÓN |
+| 🔴 Sábado | OUTDOOR — PROYECTO V10 o trad | MÁXIMA |
+| 🟢 Domingo | Descanso total | — |
 
 **Hangboard Fase 5 (solo martes):**
 
