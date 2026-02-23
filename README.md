@@ -1,6 +1,6 @@
 # Plan de Entrenamiento de Escalada — De V8 a V10
 
-> ⚠️ **ACTUALIZADO 23 FEB 2026:** Estructura semanal ajustada según feedback de Maco (coach). Solo 1 sesión de fuerza máxima en gym/semana. Lunes pasa a técnica/volumen. Sábado es la segunda sesión intensa (proyectos outdoor). 72hrs entre sesiones máximas. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
+> ⚠️ **ACTUALIZADO 23 FEB 2026:** Estructura semanal ajustada según feedback de Maco (coach). Solo 1 sesión de fuerza máxima en gym/semana. Lunes pasa a técnica/volumen. Sábado es la segunda sesión intensa (proyectos outdoor). 72hrs entre sesiones máximas. **HANGBOARD ELIMINADO del plan.** Con 164% BW de fuerza de dedos (ELITE), el hangboard no aporta. Se reemplaza por trabajo de slopers integrado en la sesión de martes. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
 
 **Atleta:** Hombre, 26 años, 175cm/73kg, 6 años escalando  
 **Nivel actual:** V6 consistente / V8 máx boulder / 5.12a deportiva  
@@ -163,10 +163,10 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 | Día | Actividad Base | Intensidad | Notas |
 |-----|---------------|------------|-------|
 | **🟡 Lunes PM** | Técnica + Volumen (spray 35° con Andrew) | MODERADA | Lectura, pies, movimiento. NO reventar |
-| **🟡 Martes** | Hangboard + Complementario | MODERADA | En casa/gym |
+| **🟡 Martes** | Físico Complementario (Slopers + Fuerza + Core) | MODERADA | SIN HANGBOARD |
 | **🔴 Miércoles AM** | Fuerza Máxima (spray 50° + moonboard con Maco) | MÁXIMA | LA sesión intensa #1 — INAMOVIBLE |
 | **🟡 Jueves** | Ruta con Vale (Mall Sport) | MODERADA | Enseñanza — INAMOVIBLE |
-| **🟢 Viernes** | Recovery — Antagonistas + Movilidad | BAJA | Recuperación activa |
+| **🟢 Viernes** | Recovery (Antagonistas + Movilidad) | BAJA | SIN HANGBOARD — Recuperación activa |
 | **🔴 Sábado** | Outdoor — PROYECTO | MÁXIMA | Sesión intensa #2 (72hrs post miércoles) |
 | **🟢 Domingo** | Descanso total | — | Recovery |
 
@@ -177,7 +177,7 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 ## 4. Fase 1: Base General (Semanas 1-8)
 
-**Objetivo:** Construir base de fuerza general, mejorar resistencia base, empezar progresión de hangboard, atacar debilidades (slopers). Preparar tendones y sistema para cargas mayores.
+**Objetivo:** Construir base de fuerza general, mejorar resistencia base, atacar debilidades (slopers), desarrollar fuerza complementaria y core. Preparar tendones y sistema para cargas mayores.
 
 ### Semana Tipo — Fase 1
 
@@ -209,19 +209,7 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 ---
 
-#### MARTES — Hangboard (Mantenimiento) + Slopers + Complementario
-
-**Hangboard — Protocolo de MANTENIMIENTO (25 min):**
-
-> Tu fuerza de dedos es 164% BW — nivel elite. Solo necesitas mantener, no progresar agresivamente. Se reduce de 2 sets a 1 set.
-
-| Ejercicio | Agarre | Tiempo On/Off | Series | Reps | Descanso entre series |
-|-----------|--------|---------------|--------|------|----------------------|
-| Repeaters 20mm | Media crimpa | 7s on / 3s off | 6 | 7 | 2:30 min |
-
-- **Intensidad:** Moderada-alta. Sin necesidad de subir peso agresivamente.
-- **Progresión:** Solo si se siente MUY fácil. El objetivo es mantener, no maxear.
-- **1 set** (en vez de 2) — el tiempo liberado se invierte en slopers.
+#### MARTES — Slopers + Complementario + Core
 
 **Trabajo de Slopers — PRIORIDAD (20 min):**
 
@@ -304,27 +292,7 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-#### VIERNES — Hangboard (Mantenimiento) + Slopers + Antagonistas + Movilidad
-
-**Hangboard — Max Hangs MANTENIMIENTO (20 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Max Hang 20mm | Media crimpa | 10s | 3 | 3 min |
-| Max Hang 20mm | Mano abierta (3 dedos) | 10s | 3 | 3 min |
-
-- **Intensidad:** 85-90% max. Mantenimiento, no progresión agresiva.
-- **Nota:** Tu fuerza de dedos es 164% BW. Solo mantener, no necesitas progresar.
-- Se eliminan las series de sloper hang del protocolo de max hang. El trabajo de slopers ahora tiene su propio bloque dedicado.
-
-**Slopers Específico (15 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Sloper hang variado | Mano abierta | 10s | 4 | 2 min |
-| Sloper pinch en hangboard | Mano abierta | 8s | 3 | 2 min |
-
-- **Foco:** Posición de mano abierta y presión hacia la pared. Explorar diferentes ángulos de agarre.
+#### VIERNES — Recovery: Antagonistas + Movilidad
 
 **Antagonistas y Prevención (25 min):**
 
@@ -371,10 +339,10 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 | Día | Modificación |
 |-----|-------------|
 | Lunes | Técnica/Volumen pero bajar 2 grados, menos volumen, foco solo en técnica |
-| Martes | Solo hangboard repeaters a 50% volumen, sin complementario pesado |
+| Martes | Solo movilidad y core ligero, sin complementario pesado |
 | Miércoles | Spray/moonboard pero problemas fáciles, enfoque técnico |
 | Jueves | Solo ARC training y rutas fáciles |
-| Viernes | Movilidad y antagonistas solamente |
+| Viernes | Recovery: movilidad y antagonistas solamente |
 | Sábado | Outdoor recreational, sin proyectar |
 | Domingo | Descanso total |
 
@@ -385,7 +353,7 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 **Objetivo:** Mantener fuerza de dedos (ya es elite), maximizar fuerza de tracción, desarrollar contact strength en SLOPERS, y mejorar técnica de movimiento. El foco se desplaza de "ganar fuerza de dedos" a "aplicar mejor la fuerza que ya tienes."
 
 ### Cambios clave respecto a Fase 1:
-- Hangboard se mantiene en **mantenimiento** (no progresión agresiva — ya eres elite)
+- Sin hangboard — fuerza de dedos se mantiene con escalada
 - **Más tiempo en slopers y técnica de contacto abierta**
 - Complementario se hace más pesado, menos reps
 - Spray wall se enfoca en movimientos de max dificultad CON SLOPERS
@@ -393,17 +361,7 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-#### MARTES — Hangboard Mantenimiento + Slopers Avanzado + Fuerza Pesada
-
-**Hangboard — Mantenimiento (25 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Max Hang 20mm | Media crimpa | 10s | 3 | 3-5 min |
-| Max Hang 20mm | Mano abierta (4 dedos) | 10s | 3 | 3-5 min |
-
-- **Intensidad:** 85-90%. Suficiente para mantener, no para destruirte.
-- **Nota:** Tu 164% BW es elite. No gastes energía progresando algo que ya dominas.
+#### MARTES — Slopers Avanzado + Fuerza Pesada + Core
 
 **Slopers Avanzado (20 min):**
 
@@ -434,25 +392,7 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-#### VIERNES — Hangboard Mantenimiento + Slopers + Antagonistas
-
-**Hangboard — Mantenimiento (20 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Max Hang 20mm media crimpa | | 10s | 3 | 3 min |
-| Max Hang 20mm mano abierta | | 10s | 3 | 3 min |
-
-- **Intensidad:** 85-90%. Solo mantener la fuerza elite que ya tienes.
-
-**Slopers Específico (15 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Sloper hang variado | Mano abierta | 10s | 5 | 2 min |
-| Wide pinch / sloper pinch | Mano abierta | 8s | 3 | 2 min |
-
-> **Foco:** Progresión en slopers: empezar con slopers grandes, ir reduciendo ángulo. El objetivo es transferir tu fuerza elite de crimpa hacia posiciones de mano abierta.
+#### VIERNES — Recovery: Antagonistas + Movilidad
 
 **Antagonistas (como Fase 1 pero subir intensidad):**
 - Extensores con banda MÁS resistente
@@ -491,21 +431,13 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ### Cambios clave:
 - Se agrega campus board o campus moves en spray
-- Hangboard se modifica para incluir componente de velocidad
+- Sin hangboard — fuerza de dedos se mantiene con escalada
 - Bouldering se enfoca en intentos flash y onsight
 - Complementario baja volumen, sube velocidad
 
 ---
 
-#### MARTES — Potencia de Dedos + Fuerza Explosiva
-
-**Hangboard — Protocolo de Potencia (30 min):**
-
-| Ejercicio | Descripción | Series | Descanso |
-|-----------|-------------|--------|----------|
-| Max Hang rápido 20mm | Cargar y colgar lo más rápido posible, mantener 5s | 5 | 3-5 min |
-| Repeaters rápidos 20mm | 5s on / 5s off x 5 reps, explosivo al agarrar | 4 sets | 3 min entre sets |
-| Pull-up en regleta 20mm | Dominada explosiva desde hang en regleta | 4 x 3 | 3 min |
+#### MARTES — Potencia Explosiva + Core
 
 **Fuerza Explosiva (30 min):**
 
@@ -525,18 +457,9 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 
 ---
 
-#### VIERNES — Hangboard Mantenimiento + Recovery
+#### VIERNES — Recovery: Antagonistas + Movilidad
 
-**Hangboard Mantenimiento (25 min):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Max Hang 20mm (85-90%) | Media crimpa | 10s | 3 | 3 min |
-| Max Hang sloper | Mano abierta | 10s | 3 | 3 min |
-
-- Volumen reducido vs Fase 2 para dar espacio a las sesiones de potencia
-
-**Antagonistas + Movilidad:** Igual pero con enfoque en recuperación.
+**Antagonistas + Movilidad:** Igual que fases anteriores pero con enfoque en recuperación de las sesiones de potencia.
 
 ---
 
@@ -568,21 +491,11 @@ En Fase 1, el foco de las rutas es **construir base aeróbica** (resistencia):
 - Bouldering sube volumen, baja intensidad máxima
 - Se agrega **4x4s** y circuitos
 - Ruta se convierte en sesión principal de resistencia
-- Hangboard cambia a resistencia de dedos
+- Sin hangboard — resistencia se trabaja en pared
 
 ---
 
-#### MARTES — Resistencia de Dedos + Circuito
-
-**Hangboard — Protocolo de Resistencia (30 min):**
-
-| Ejercicio | Agarre | On/Off | Series x Reps | Descanso entre series |
-|-----------|--------|--------|---------------|----------------------|
-| Repeaters 20mm | Media crimpa | 7s on / 3s off | 3 sets x 6 reps | 1:30 min |
-| Repeaters sloper | Mano abierta | 7s on / 3s off | 3 sets x 6 reps | 1:30 min |
-| Intermittent dead hang | Media crimpa | 10s on / 5s off | 4 reps hasta fallo | — |
-
-- **Intensidad:** Moderada. Sin peso adicional o con poco. La clave es el volumen.
+#### MARTES — Circuito de Resistencia
 
 **Circuito de Resistencia (30 min):**
 
@@ -598,13 +511,11 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 
 ---
 
-#### VIERNES — Hangboard Mantenimiento + Movilidad Profunda
-
-**Hangboard (20 min):**
-- 3 sets de Max Hang 20mm a 85% — solo para mantener fuerza
-- 3 sets de sloper hang
+#### VIERNES — Recovery: Movilidad Profunda
 
 **Movilidad profunda (40 min):** Sesión extendida enfocada en caderas y hombros para multilargo.
+
+**Antagonistas (20 min):** Mantener trabajo de prevención como en fases anteriores.
 
 ---
 
@@ -633,7 +544,7 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 
 ### Cambios clave:
 - Entrenamiento complementario AL MÍNIMO
-- Hangboard solo mantenimiento (2x/sem, bajo volumen)
+- Sin hangboard — la escalada es el entrenamiento
 - Máxima escalada de alta calidad
 - Outdoor siempre que se pueda
 - Proyectar es el entrenamiento
@@ -645,21 +556,14 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 | Día | Actividad | Intensidad |
 |-----|-----------|-----------|
 | 🟡 Lunes | Técnica + Volumen (spray 35° con Andrew) — lectura, pies, movimiento | MODERADA |
-| 🟡 Martes | Hangboard mantenimiento (3 sets max hang) + movilidad | BAJA |
+| 🟡 Martes | Movilidad + recovery | BAJA |
 | 🔴 Miércoles | Fuerza máxima (spray 50° con Maco) — proyectos hard | MÁXIMA |
 | 🟡 Jueves | Ruta con Vale — proyecto de grado | MODERADA |
 | 🟢 Viernes | Recovery — Antagonistas + Movilidad | RECUPERACIÓN |
 | 🔴 Sábado | OUTDOOR — PROYECTO V10 o trad | MÁXIMA |
 | 🟢 Domingo | Descanso total | — |
 
-**Hangboard Fase 5 (solo martes):**
-
-| Ejercicio | Agarre | Tiempo | Series | Descanso |
-|-----------|--------|--------|--------|----------|
-| Max Hang 20mm | Media crimpa | 10s | 3 | 3 min |
-| Max Hang sloper | Mano abierta | 10s | 2 | 3 min |
-
-Eso es todo. Solo mantener lo ganado. La escalada ES el entrenamiento ahora.
+**En Fase 5 no hay hangboard ni complementario pesado.** La escalada ES el entrenamiento ahora. Martes es solo movilidad y recovery activo.
 
 **Estrategia de proyecto V10:**
 1. Identificar 3-5 boulders V10 que se ajusten a tu estilo
@@ -674,31 +578,35 @@ Eso es todo. Solo mantener lo ganado. La escalada ES el entrenamiento ahora.
 
 ## 9. Protocolo de Mantenimiento de Fuerza de Dedos
 
+> **⚠️ ACTUALIZACIÓN 23 FEB 2026: Protocolo de hangboard ELIMINADO del plan tras feedback de Maco. Con 164% BW de fuerza de dedos, hangboard no aporta mejoras y agrega carga innecesaria al SNC. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). La sección se mantiene como referencia pero está ARCHIVADA/DEPRECATED.**
+
 > **⚠️ CORRECCIÓN IMPORTANTE (Feb 2026):** El assessment original registró 60kg de max hang asumiendo que era bilateral (82% BW). En realidad, Ben mide con **Tindeq** y tira **60kg POR MANO**. Total estimado: ~120kg = **164% BW**. Esto es nivel ELITE, muy por encima del benchmark de V10 (110-120% BW). Por lo tanto, este plan cambia de "progresión agresiva" a **PROTOCOLO DE MANTENIMIENTO**.
 
-### Filosofía: Mantener, No Progresar
+### ~~Filosofía: Mantener, No Progresar~~ → ARCHIVADO
 
-Tu fuerza de dedos ya es tu mayor fortaleza. El objetivo ahora es:
-1. **Mantener** la fuerza actual con mínimo volumen necesario
-2. **Redirigir** el tiempo que se gastaba en progresión de hangboard hacia SLOPERS y MANO ABIERTA
-3. **No perder** fuerza durante las fases de resistencia y peak
+~~Tu fuerza de dedos ya es tu mayor fortaleza. El objetivo ahora es:~~
+1. ~~**Mantener** la fuerza actual con mínimo volumen necesario~~
+2. ~~**Redirigir** el tiempo que se gastaba en progresión de hangboard hacia SLOPERS y MANO ABIERTA~~
+3. ~~**No perder** fuerza durante las fases de resistencia y peak~~
 
-### Tabla de Mantenimiento
+**ACTUALIZACIÓN:** Con 164% BW, la fuerza de dedos se mantiene con las sesiones de escalada (miércoles fuerza máxima + sábado outdoor). No se necesita hangboard. El tiempo se invierte en slopers, fuerza general, core, y recovery.
 
-| Mes | Semanas | Protocolo | Volumen Hangboard | Foco Extra |
+### ~~Tabla de Mantenimiento~~ → ARCHIVADA
+
+| Mes | Semanas | ~~Protocolo~~ | ~~Volumen Hangboard~~ | Foco Real |
 |-----|---------|-----------|-------------------|------------|
-| 1 | 1-4 | Mantenimiento + Slopers | 2 sesiones cortas/sem | Técnica de slopers, mano abierta |
-| 2 | 5-8 | Mantenimiento + Slopers | 2 sesiones cortas/sem | Spray wall con slopers, lectura |
-| 3 | 9-12 | Mantenimiento | 2 sesiones cortas/sem | Contacto strength, RFD en slopers |
-| 4 | 13-16 | Mantenimiento | 2 sesiones cortas/sem | Técnica de pies, eficiencia |
-| 5 | 17-20 | Mantenimiento | 2 sesiones/sem | Potencia de contacto en slopers |
-| 6 | 21-24 | Mantenimiento | 2 sesiones/sem | Power endurance |
-| 7 | 25-28 | Mantenimiento | 1-2 sesiones/sem | Resistencia, volumen en pared |
-| 8 | 29-32 | Mantenimiento | 1-2 sesiones/sem | Resistencia específica |
-| 9 | 33-36 | Mantenimiento mínimo | 1 sesión/sem | Performance, solo escalar |
-| 10 | 37-40 | Mantenimiento mínimo | 1 sesión/sem | Peak, proyectos V10 |
+| 1 | 1-4 | Slopers + Escalada | Sin hangboard | Técnica de slopers, mano abierta |
+| 2 | 5-8 | Slopers + Escalada | Sin hangboard | Spray wall con slopers, lectura |
+| 3 | 9-12 | Escalada | Sin hangboard | Contacto strength, RFD en slopers |
+| 4 | 13-16 | Escalada | Sin hangboard | Técnica de pies, eficiencia |
+| 5 | 17-20 | Escalada | Sin hangboard | Potencia de contacto en slopers |
+| 6 | 21-24 | Escalada | Sin hangboard | Power endurance |
+| 7 | 25-28 | Escalada | Sin hangboard | Resistencia, volumen en pared |
+| 8 | 29-32 | Escalada | Sin hangboard | Resistencia específica |
+| 9 | 33-36 | Escalada | Sin hangboard | Performance, solo escalar |
+| 10 | 37-40 | Escalada | Sin hangboard | Peak, proyectos V10 |
 
-> **Clave:** El hangboard ya no es para GANAR fuerza — es para NO PERDERLA. El tiempo liberado se invierte en lo que realmente te limita: slopers, técnica, lectura, y resistencia.
+> **Clave:** El hangboard ha sido ELIMINADO del plan. La fuerza de dedos (164% BW) se mantiene con las sesiones de escalada. Todo el tiempo se invierte en lo que realmente limita: slopers, técnica, lectura, y resistencia.
 
 ### Protocolo Detallado de Max Hang (para Fases 2-5)
 
@@ -731,11 +639,13 @@ Los slopers requieren: (a) fuerza en mano abierta, (b) fricción y técnica de c
 
 **A. Entrenamiento de Fuerza en Mano Abierta:**
 
+> **Nota:** El trabajo de slopers ahora vive en la sesión de MARTES (Slopers + Complementario + Core).
+
 | Ejercicio | Protocolo | Frecuencia |
 |-----------|-----------|------------|
-| Max Hang en sloper (hangboard) | 10s x 4 series, 3 min desc. Progresión: empezar con sloper grande, ir a más pequeño | 2x/semana |
+| Sloper moves en spray wall | Problemas cortos con slopers, foco en mano abierta | 2x/semana (martes + lunes) |
 | Pinch block hold | 10s x 4 series con mancuerna pesada | 1x/semana |
-| Wide pinch en hangboard | 7s x 3 series | 1x/semana |
+| Sloper hang 35° | 10s x 5 series, 2 min desc | 1x/semana (martes) |
 
 **B. Entrenamiento Técnico en Slopers:**
 
@@ -889,7 +799,7 @@ Con tu composición corporal (6.3% grasa, 40.8kg músculo), no necesitas hacer d
 | Vitamina D | 2000-4000 IU/día | Si vives en Santiago y entrenas indoor | MEDIA |
 | Omega-3 | 2-3g EPA+DHA/día | Anti-inflamatorio, recovery | MEDIA |
 | Magnesio | 200-400mg/noche | Sueño, recuperación muscular | MEDIA |
-| Colágeno + Vit C | 15g + 50mg, 30 min pre-hangboard | Emergente para salud de tendones | BAJA-MEDIA |
+| Colágeno + Vit C | 15g + 50mg, 30 min pre-escalada | Emergente para salud de tendones | BAJA-MEDIA |
 
 > **Nota sobre creatina:** Puede causar un aumento de 1-2kg de peso por retención de agua. En escalada esto preocupa a algunos. Sin embargo, el beneficio en fuerza y potencia supera el costo del peso extra para la mayoría de los escaladores. Evalúa caso a caso.
 
@@ -1006,7 +916,7 @@ La escalada trad es donde el componente mental de Ilgner se vuelve MÁS relevant
 
 1. **Slopers y mano abierta es PRIORIDAD #1.** Tu fuerza en crimpa es elite (164% BW), pero los slopers te limitan. Trabajo específico de contacto abierto, técnica de presión, y posición corporal en cada sesión.
 2. **Técnica y lectura de boulder.** Con tu fuerza deberías escalar más duro. El gap es técnico: pies, lectura, eficiencia de movimiento, secuencias.
-3. **Hangboard en MANTENIMIENTO.** Solo mantener la fuerza que ya tienes. 2 sesiones cortas/semana, sin progresión agresiva. El tiempo liberado va a slopers y técnica.
+3. **Hangboard ELIMINADO.** Con 164% BW, hangboard no aporta. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). El tiempo se invierte en slopers, fuerza general, core, y recovery.
 4. **Aprende a respirar en la ruta.** Práctica diaria + integración en sesiones.
 5. **Entrena tu cabeza.** Guerreros de la Roca no es decoración — es parte del plan.
 6. **Descansa lo suficiente.** La supercompensación ocurre en el descanso. Cada 4ta semana es descarga.
