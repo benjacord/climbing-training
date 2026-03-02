@@ -185,28 +185,95 @@ FASE 5: PERFORMANCE/PEAK    | Sem 33-40  | Oct-Dic  | 8 semanas
 
 #### LUNES PM (19-21h) — Técnica + Volumen con Andrew | Spray 35°
 
-> ⚠️ **CAMBIO 23 FEB 2026:** Esta sesión pasa de "Limit Bouldering" a "Técnica/Volumen" por indicación de Maco. NO es sesión de fuerza máxima. El objetivo es lectura, pies, movimiento fluido. La fuerza máxima se reserva para el miércoles.
+> ⚠️ **ACTUALIZADO 2 MAR 2026:** Drills técnicos definidos por Maco. 4 drills con variantes A/B (derecha/izquierda). Constraints de dificultad: intro/salida máx V4, drill aislado máx V5, bloque completo objetivo V7.
 
 **Calentamiento (20 min):**
 - 5 min traversa fácil
 - Escalada progresiva: 3 boulders fáciles → 3 boulders moderados
+- **Movilidad de rodillas** (CRÍTICO — los drills usan lolot y talones)
 - Movilidad de hombros y caderas en la pared
 
-**Bloque principal (70 min) — Técnica + Volumen:**
-- Spray 35° — problemas variados, foco en LECTURA de boulder
-- **Técnica de pies:** Precisión, confianza, pies silenciosos
-- **Movimiento fluido:** No forzar, buscar eficiencia
-- **Slopers:** Posición de mano abierta, presión hacia la pared
-- **Volumen moderado:** Muchos problemas, intensidad controlada (NO intentar límite)
-- **Énfasis especial:** Incluir problemas con slopers para técnica de contacto
-- Graba en video los problemas para análisis posterior
+**⚠️ Precauciones antes de empezar:**
+- Si hay **dolor de rodilla** → evitar Drill 1 (lolot) y Drill 4 (talón)
+- Si hay **dolor de mano** → evitar Drill 2 (deadpoint)
+
+---
+
+**Drill 1 — Lolot como herramienta de alcance (15 min)**
+
+Foco: usar el lolot específicamente para ganar alcance lateral. La intro y salida son secundarias.
+
+| Variante | Posición | Movimiento |
+|----------|----------|------------|
+| **A (derecha)** | Colgando de 2 tomas, pie izq extendido + pie der en lolot | Mano der busca toma lejana a la DERECHA — el lolot da el alcance |
+| **B (izquierda)** | Colgando de 2 tomas, pie der extendido + lolot izq | Mano izq busca toma lejana a la IZQUIERDA |
+
+- Intro y salida: máx **V4**
+- Paso del lolot aislado: máx **V5**
+
+---
+
+**Drill 2 — Deadpoint con cadera (15 min)**
+
+Foco: mecánica de cadera — salida del muro → entrada fuerte al muro → contacto cuando la cadera está completamente ADENTRO del muro.
+
+| Elemento | Detalle |
+|----------|---------|
+| **Tomas de salida** | ROMAS (control no total) — si el movimiento está mal, no puedes frenar |
+| **Toma de llegada** | Un poco mejor (facilita frenar) |
+| **Variante A** | Deadpoint mano derecha |
+| **Variante B** | Deadpoint mano izquierda |
+
+- Las romas en la salida son intencionales: fuerzan buena técnica de cadera
+- Intro y salida: máx **V4** / Drill aislado: máx **V5**
+
+---
+
+**Drill 3 — Cruce de manos desde invertido (15 min)**
+
+Foco: activar invertido + girar el cuerpo para cruzar lejos.
+
+| Elemento | Detalle |
+|----------|---------|
+| **Pies** | Relativamente malos pero acomodados para el cuerpo |
+| **Invertido** | Relativamente bueno |
+| **Toma final** | Con incut — para poder desenrollarse y seguir escalando |
+| **Variante A** | Invertido mano der → cruzar mano izq LEJOS hacia la derecha |
+| **Variante B** | Invertido mano izq → cruzar mano der LEJOS hacia la izquierda |
+
+- Intro y salida: máx **V4** / Drill aislado: máx **V5**
+
+---
+
+**Drill 4 — Talón activo de alcance (15 min)**
+
+Foco: usar el talón para acercar la cadera y alcanzar tomas que sin él serían imposibles.
+
+| Elemento | Detalle |
+|----------|---------|
+| **Posición inicial** | Parado con pie extendido + manos cerca del pecho |
+| **Talón** | A la altura de la cadera en agarre |
+| **Movimiento** | Tirar del talón para acercar cadera → buscar mano LEJOS |
+| **Variante A** | Talón derecho + mano derecha |
+| **Variante B** | Talón izquierdo + mano izquierda |
+
+- Con entrada y salida del movimiento
+- Intro y salida: máx **V4** / Drill aislado: máx **V5**
+
+---
+
+**Constraints de dificultad (todos los drills):**
+| Componente | Grado máximo |
+|------------|-------------|
+| Intro y salida | V4 |
+| Drill aislado | V5 |
+| Bloque completo (objetivo) | V7 |
 
 **Vuelta a la calma (15 min):**
 - 3 boulders fáciles (2-3 grados bajo tu nivel)
 - Estiramiento: antebrazos, hombros, caderas, isquiotibiales
 
-> **Clave:** Esta sesión NO es para reventar. Es técnica y volumen. Guardar la fuerza máxima para el miércoles con Maco. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
-
+> **Clave:** Esta sesión NO es para reventar. Es técnica con drills específicos definidos por Maco. Guardar la fuerza máxima para el miércoles. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
 ---
 
 #### MARTES — Slopers + Complementario + Core
