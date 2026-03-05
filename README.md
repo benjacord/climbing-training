@@ -1,11 +1,11 @@
 # Plan de Entrenamiento de Escalada — De V8 a V10
 
-> ⚠️ **ACTUALIZADO 23 FEB 2026:** Estructura semanal ajustada según feedback de Maco (coach). Solo 1 sesión de fuerza máxima en gym/semana. Lunes pasa a técnica/volumen. Sábado es la segunda sesión intensa (proyectos outdoor). 72hrs entre sesiones máximas. **HANGBOARD ELIMINADO del plan.** Con 164% BW de fuerza de dedos (ELITE), el hangboard no aporta. Se reemplaza por trabajo de slopers integrado en la sesión de martes. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
+> ⚠️ **ACTUALIZADO 23 FEB 2026:** Estructura semanal ajustada según feedback de Maco (coach). Solo 1 sesión de fuerza máxima en gym/semana. Lunes pasa a técnica/volumen. Sábado es la segunda sesión intensa (proyectos outdoor). 72hrs entre sesiones máximas. **HANGBOARD ELIMINADO del plan.** Con 162% BW de fuerza de dedos (ELITE), el hangboard no aporta. Se reemplaza por trabajo de slopers integrado en la sesión de martes. "Más no es mejor, mejor es mejor" (Consuegra/Maco).
 
-**Atleta:** Hombre, 26 años, 175cm/73kg, 6 años escalando  
+**Atleta:** Hombre, 26 años, 175cm/74kg, 6 años escalando  
 **Nivel actual:** V6 consistente / V8 máx boulder / 5.12a deportiva  
 **Objetivo:** V10 en boulder + escalador completo (trad, multilargo)  
-**Fuerza dedos actual:** 60kg POR MANO (Tindeq) = ~120kg total = 164% BW ⚡ ELITE  
+**Fuerza dedos actual:** 60kg POR MANO (Tindeq) = ~120kg total = 162% BW ⚡ ELITE  
 **Fecha inicio:** Febrero 2026  
 
 ---
@@ -13,6 +13,7 @@
 ## Tabla de Contenidos
 
 1. [Assessment Inicial](#1-assessment-inicial)
+   - [1.3 Biomarcadores — Panel de Salud (Dic 2025)](#13-biomarcadores--panel-de-salud-dic-2025)
 2. [Análisis del Perfil](#2-análisis-del-perfil)
 3. [Periodización — Macrociclo Anual](#3-periodización--macrociclo-anual)
 4. [Fase 1: Base General (Semanas 1-8)](#4-fase-1-base-general-semanas-1-8)
@@ -42,7 +43,7 @@ Lattice Training usa un sistema de assessment estandarizado con su base de datos
 - **Ejecución:** Colgar 7 segundos con peso máximo que puedas sostener. Codos a 90°
 - **Intentos:** 3 intentos, 3 min descanso entre cada uno
 - **Equipo:** Hangboard con sistema de peso (cinturón o arnés + poleas)
-- **Tu resultado actual:** 60kg POR MANO (Tindeq) = ~120kg total (ambas manos) = **164% BW** ⚡
+- **Tu resultado actual:** 60kg POR MANO (Tindeq) = ~120kg total (ambas manos) = **162% BW** ⚡
 
 > **⚠️ NOTA IMPORTANTE sobre medición:** Ben mide con **Tindeq** (dinamómetro de una mano). El resultado es 60kg por mano (derecha e izquierda). La fuerza total estimada es ~120kg (ambas manos sumadas). Esto difiere del max hang tradicional con dos manos en hangboard. El Tindeq mide fuerza unilateral, que es más preciso para detectar asimetrías pero NO es directamente comparable 1:1 con un max hang bilateral. Sin embargo, la suma de ambas manos (~120kg) sí es comparable con los benchmarks de Lattice que miden fuerza total bilateral.
 
@@ -50,11 +51,11 @@ Lattice Training usa un sistema de assessment estandarizado con su base de datos
 
 | Métrica | Tu Actual | Target V10 | Status |
 |---------|-----------|------------|--------|
-| Max Hang 20mm (% BW) | **164%** (~120kg total) | 110-120% (~80-88kg) | ✅ **SUPERADO** |
+| Max Hang 20mm (% BW) | **162%** (~120kg total) | 110-120% (~80-88kg) | ✅ **SUPERADO** |
 | Max Hang 20mm (absoluto) | ~120kg total | 80-88kg | ✅ **+32-40kg sobre target** |
 | Fuerza por mano (Tindeq) | 60kg/mano | N/A | ⚡ Elite |
 
-> **Análisis clave:** Tu fuerza de dedos es **ELITE** — estás ~40% POR ENCIMA del benchmark de V10. Esto significa que la fuerza de dedos **NO es tu factor limitante**. Si con 164% BW solo escalas V8 max, el gap es TÉCNICO/TÁCTICO, no de fuerza. El plan se reenfoca hacia: slopers (contacto abierto), técnica de movimiento, lectura de boulder, y resistencia en ruta.
+> **Análisis clave:** Tu fuerza de dedos es **ELITE** — estás ~40% POR ENCIMA del benchmark de V10. Esto significa que la fuerza de dedos **NO es tu factor limitante**. Si con 162% BW solo escalas V8 max, el gap es TÉCNICO/TÁCTICO, no de fuerza. El plan se reenfoca hacia: slopers (contacto abierto), técnica de movimiento, lectura de boulder, y resistencia en ruta.
 
 > **Nota sobre benchmarks:** El benchmark de Lattice para V10 es ~110-120% BW en 20mm media crimpa. Esto viene de su base de datos de miles de escaladores [Fuente: Consuegra, 2020 + datos públicos Lattice]. El paper de Hermans et al. (2022) confirma que la fuerza de dedos explica hasta el 52-70% de la varianza en rendimiento de escalada [Fuente: Baláš et al., 2012; Laffaye et al., 2016]. Sin embargo, cuando la fuerza ya es elite, otros factores se vuelven el cuello de botella.
 
@@ -98,18 +99,334 @@ Peso corporal: ___kg
 
 ---
 
+### 1.3 Biomarcadores — Panel de Salud (Dic 2025)
+
+**Fecha:** 05-12-2025 | **Laboratorio:** Laboratorio Clínico Blanco, Santiago | **Médico:** Dr. Hernando Diocaretz Vergara
+
+---
+
+#### 🔴 FUERA DE RANGO
+
+| Marcador | Resultado | Referencia | Interpretación |
+|----------|-----------|------------|----------------|
+| **DHEA-S** | 220.2 ug/dL | 280-640 | ⚠️ BAJO — Precursor hormonal suprarrenal. A los 26 años debería estar en peak. Bajo DHEA-S + cortisol bajo-normal = eje suprarrenal produciendo menos de lo esperado. Marcador clásico de estrés crónico sostenido. |
+| **SHBG** | 55.0 nM/L | 10-50 | ⚠️ ALTO — Proteína que secuestra testosterona. Con SHBG elevado, la testosterona total (593 ng/dL) tiene menos biodisponibilidad real. Causas comunes en atletas delgados: dieta alta en fibra, baja ingesta de grasas saturadas, ejercicio intenso. |
+| **HDL** | 40.5 mg/dL | >60 | ⚠️ BAJO RELATIVO — Zona de riesgo relativo según el lab (30-60). Para perfil atlético, debería ser más alto. Acción: omega-3, más grasas mono-insaturadas (aguacate, aceite oliva, frutos secos). |
+| **LDH** | 113 UI/L | 140-271 | Bajo del rango — en este caso es BUENA noticia. Significa poca destrucción celular, baja inflamación tisular. No preocupante. |
+| **Transferrina** | 197 mg/dL | 200-360 | 3 puntos bajo el mínimo. Clínicamente irrelevante con hierro y ferritina normales. |
+| **Glicemia basal** | 73.5 mg/dL | 75-100 | Marginal. Muchos labs usan 70 como mínimo. Con HbA1c 5.1% e insulina 3.4, refleja sensibilidad a insulina de atleta de élite. |
+
+---
+
+#### 🟡 DENTRO DE RANGO, SUBÓPTIMO
+
+| Marcador | Resultado | Referencia | Interpretación |
+|----------|-----------|------------|----------------|
+| **Vitamina D** | 33.96 ng/mL | 20-100 | Suficiente (>20) pero el rango óptimo funcional es 40-60 ng/mL. Impacta testosterona, estado de ánimo y rendimiento. Acción: 2,000-4,000 UI vitamina D3 diario. |
+| **Cortisol AM** | 12.15 ug/dL | 5-25 | Dentro del rango, pero el peak matutino ideal es 15-20. Combinado con DHEA-S bajo, el eje suprarrenal produce menos de lo esperado para la edad. |
+| **TSH** | 2.664 uUI/mL | 0.270-4.200 | Normal clínico. Médicos funcionales prefieren <2.5 para optimizar. T4 libre en 1.02 está bien. No hay hipotiroidismo. |
+| **Índice Col/HDL (Castelli)** | 4.3 | <5.0 | Técnicamente dentro del rango, pero el óptimo es <3.5. En zona de riesgo moderado principalmente por HDL bajo. |
+| **Fosfatasa alcalina** | 45.7 U/L | 38-126 | Tercio bajo. Puede asociarse a déficit de zinc. Agregar zinc sérico al próximo panel. |
+
+---
+
+#### ✅ EXCELENTE
+
+| Marcador | Resultado | Referencia | Por qué importa |
+|----------|-----------|------------|-----------------|
+| **Insulina basal** | 3.40 uUI/mL | 1.9-23 | Sensibilidad a insulina perfecta |
+| **HOMA-IR calculado** | ~0.62 | <2.5 | Resistencia a insulina prácticamente nula |
+| **HbA1c** | 5.1% | <5.7% | Control glucémico impecable (últimos 3 meses) |
+| **VHS** | 2 mm/h | <7 | Inflamación sistémica casi nula |
+| **NLR (neutrófilos/linfocitos)** | 1.1 | <2.0 | Marcador de inflamación sistémica — excelente |
+| **GOT/AST** | 17.4 U/L | <50 | Hígado limpio |
+| **Triglicéridos** | 78 mg/dL | <150 | Metabolismo graso excelente |
+| **Testosterona total** | 593.95 ng/dL | 280-800 | Buen nivel |
+| **Testosterona libre** | 27.2 pg/mL | 9-50 | Dentro de rango (baja-media dado SHBG elevado) |
+| **LH** | 3.85 mUI/mL | 1.7-8.6 | Eje hipofisario-gonadal normal |
+| **FSH** | 5.12 mUI/mL | 1.5-12.4 | Normal |
+| **Estradiol** | 29.74 pg/mL | 7.63-42.6 | Rango óptimo masculino (20-30) |
+| **T4 libre** | 1.02 ng/dL | 0.61-1.12 | Tiroides produciendo bien |
+| **Hemoglobina** | 15.7 g/dL | 13-16 | Excelente transporte de oxígeno |
+| **Hematocrito** | 45.9% | 40-54 | Normal-alto |
+| **ADE** | 12.7% | 12.1-16.2 | Mínimo del rango = glóbulos rojos muy uniformes → nutrición bien |
+| **Ferritina** | 158.5 ng/mL | 20-250 | Reservas de hierro excelentes |
+| **Ferremia** | 149 ug/dL | 70-180 | Normal |
+| **TIBC** | 283 ug/dL | 155-355 | Normal |
+| **Saturación de transferrina** | 52.7% | 20-50% | Levemente sobre el rango — iron stores bien, no suplementar hierro |
+| **SpO2 (Whoop proxy)** | — | — | — |
+| **Albúmina** | 4.9 g/dL | 3.5-5.2 | Excelente estado nutricional y función hepática |
+| **Ácido úrico** | 5.5 mg/dL | 3.4-7 | Normal — sin riesgo de gota |
+| **Calcio** | 9.4 mg/dL | 8.8-10.6 | Normal |
+| **Fósforo** | 4.0 mg/dL | 2.5-4.5 | Normal |
+| **Uremia (BUN)** | 29 mg/dL | 0-50 | Normal (para atleta con ingesta proteica alta, esperado) |
+| **Proteínas totales** | 7.2 g/dL | 6.6-8.3 | Buen estado nutricional proteico |
+| **Bilirrubina total** | 0.9 mg/dL | 0.3-1.2 | Sin daño hepático ni hemólisis |
+
+---
+
+#### 🔑 ANÁLISIS HORMONAL INTEGRADO
+
+**Ratio Cortisol/DHEA-S:**
+El cortisol AM (12.15) está en el tercio bajo de su rango. El DHEA-S (220.2) está bajo el mínimo. La relación cortisol:DHEA desequilibrada hacia el cortisol es el marcador más relevante de estrés crónico sostenido, incluso cuando el cortisol por sí solo parece normal.
+
+**Testosterona total vs libre con SHBG elevado:**
+- Total: 593.95 ng/dL (buena)
+- SHBG: 55 nM/L (elevada, secuestra más T)
+- Libre: 27.2 pg/mL (rango medio-bajo dado el SHBG)
+- % libre calculado: ~2.05% (límite inferior del rango normal 1-3%)
+
+**Estradiol en zona alta del óptimo:** 29.74 pg/mL. No preocupante, pero si sube más (aromatización) podría afectar composición y libido.
+
+**Eje hipofisario (LH/FSH):**
+- LH:FSH = 3.85/5.12 = 0.75 (levemente bajo de ratio 1:1 esperado)
+- No clínicamente significativo con testosterona normal
+- Ambas dentro de rango
+
+**Tiroides:**
+- TSH 2.664 (borderline funcional, ideal <2.5)
+- T4 libre 1.02 (bien)
+- Falta T3 libre para cuadro completo
+
+---
+
+#### 📋 ACCIONES RECOMENDADAS
+
+| Prioridad | Acción | Marcador que lo justifica |
+|-----------|--------|--------------------------|
+| ALTA | Hablar con médico sobre DHEA-S bajo (posible suplementación 25mg/día) | DHEA-S 220.2 |
+| ALTA | Vitamina D3 2,000-4,000 UI diario | Vitamina D 33.96 |
+| ALTA | Aumentar omega-3 (2-3g EPA+DHA/día) y grasas monoinsaturadas | HDL 40.5 |
+| MEDIA | Zinc sérico en próximo panel | ALP 45.7 (baja) + SHBG elevado |
+| MEDIA | Magnesio sérico en próximo panel | No medido, común en atletas |
+| MEDIA | Agregar GPT/ALT y creatinina al próximo panel | Solo se midió AST y BUN |
+| MEDIA | T3 libre en próximo panel | Panel tiroideo incompleto |
+| BAJA | Homocisteína y hs-CRP en próximo panel | No medidos, riesgo cardiovascular |
+
+---
+
+#### 📊 PANEL COMPLETO — TODOS LOS VALORES
+
+| Examen | Resultado | Unidad | Ref Min | Ref Max | Estado |
+|--------|-----------|--------|---------|---------|--------|
+| Testosterona total | 593.95 | ng/dL | 280 | 800 | ✅ |
+| Testosterona libre | 27.2 | pg/mL | 9 | 50 | ✅ |
+| SHBG | 55.0 | nM/L | 10 | 50 | ⚠️ Alto |
+| LH | 3.85 | mUI/mL | 1.7 | 8.6 | ✅ |
+| FSH | 5.12 | mUI/mL | 1.5 | 12.4 | ✅ |
+| Estradiol | 29.74 | pg/mL | 7.63 | 42.6 | ✅ |
+| DHEA-S | 220.2 | ug/dL | 280 | 640 | ⚠️ Bajo |
+| Cortisol AM | 12.15 | ug/dL | 5 | 25 | ✅ (bajo-normal) |
+| TSH | 2.664 | uUI/mL | 0.27 | 4.2 | ✅ (borderline) |
+| T4 libre | 1.02 | ng/dL | 0.61 | 1.12 | ✅ |
+| Glicemia basal | 73.5 | mg/dL | 75 | 100 | ⚠️ Marginal |
+| HbA1c | 5.1 | % | — | 5.7 | ✅ |
+| Insulina basal | 3.40 | uUI/mL | 1.9 | 23 | ✅ |
+| HOMA-IR | 0.62 | — | — | 2.5 | ✅ |
+| Colesterol total | 176 | mg/dL | — | 200 | ✅ |
+| HDL | 40.5 | mg/dL | 60 | — | ⚠️ Bajo |
+| LDL | 120 | mg/dL | — | 130 | ✅ |
+| VLDL | 15.6 | mg/dL | 5 | 40 | ✅ |
+| Triglicéridos | 78 | mg/dL | — | 150 | ✅ |
+| Índice Col/HDL | 4.3 | — | — | 5.0 | ✅ (subóptimo) |
+| Eritrocitos | 5.13 | x10^6/uL | 4.06 | 5.63 | ✅ |
+| Hemoglobina | 15.7 | g/dL | 13 | 16 | ✅ |
+| Hematocrito | 45.9 | % | 40 | 54 | ✅ |
+| VCM | 89.5 | fL | 73 | 96.2 | ✅ |
+| HCM | 30.6 | pg | 23.8 | 33.4 | ✅ |
+| CHCM | 34.2 | g/dL | 32.5 | 36.3 | ✅ |
+| ADE | 12.7 | % | 12.1 | 16.2 | ✅ |
+| Leucocitos | 5.2 | x10^3/uL | 3.6 | 10.2 | ✅ |
+| Neutrófilos | 47 | % | 44 | 74 | ✅ |
+| Linfocitos | 40 | % | 15 | 43 | ✅ |
+| Monocitos | 10 | % | 5 | 14 | ✅ |
+| Eosinófilos | 3 | % | 1 | 8 | ✅ |
+| Basófilos | 0 | % | 0 | 2 | ✅ |
+| Neutrófilos (abs) | 2.20 | x10^3/uL | 2.0 | 7.0 | ✅ |
+| Linfocitos (abs) | 2.0 | x10^3/uL | 0.8 | 4 | ✅ |
+| Plaquetas | 191 | x10^3/uL | 152 | 348 | ✅ |
+| VHS | 2 | mm/h | — | 7 | ✅ |
+| NLR calculado | 1.1 | — | — | 2.0 | ✅ |
+| Ferritina | 158.5 | ng/mL | 20 | 250 | ✅ |
+| Ferremia | 149 | ug/dL | 70 | 180 | ✅ |
+| TIBC | 283 | ug/dL | 155 | 355 | ✅ |
+| Saturación Fe | 52.7 | % | 20 | 50 | ⚠️ Leve |
+| Transferrina | 197 | mg/dL | 200 | 360 | ⚠️ Marginal |
+| Vitamina D | 33.96 | ng/mL | 20 | 100 | ✅ (subóptimo) |
+| Proteínas totales | 7.2 | g/dL | 6.6 | 8.3 | ✅ |
+| Albúmina | 4.9 | g/dL | 3.5 | 5.2 | ✅ |
+| Bilirrubina total | 0.9 | mg/dL | 0.3 | 1.2 | ✅ |
+| Fosfatasa alcalina | 45.7 | U/L | 38 | 126 | ✅ (bajo) |
+| LDH | 113 | UI/L | 140 | 271 | ✅ (bajo = bueno) |
+| GOT/AST | 17.4 | U/L | — | 50 | ✅ |
+| Calcio | 9.4 | mg/dL | 8.8 | 10.6 | ✅ |
+| Fósforo | 4.0 | mg/dL | 2.5 | 4.5 | ✅ |
+| Ácido úrico | 5.5 | mg/dL | 3.4 | 7 | ✅ |
+| Uremia (BUN) | 29 | mg/dL | 0 | 50 | ✅ |
+
+> ⚠️ **Faltaron en el panel (agregar en próximo chequeo):** GPT/ALT, Creatinina, T3 libre, Zinc sérico, Magnesio sérico, Homocisteína, hs-CRP (proteína C reactiva ultrasensible).
+
+---
+
+### 1.3 Biomarcadores — Panel de Salud (Dic 2025)
+
+**Fecha:** 05-12-2025 | **Laboratorio:** Laboratorio Clínico Blanco, Santiago | **Médico:** Dr. Hernando Diocaretz Vergara
+
+---
+
+#### 🔴 FUERA DE RANGO
+
+| Marcador | Resultado | Referencia | Interpretación |
+|----------|-----------|------------|----------------|
+| **DHEA-S** | 220.2 ug/dL | 280-640 | ⚠️ BAJO — Precursor hormonal suprarrenal. A los 26 años debería estar en peak. Bajo DHEA-S + cortisol bajo-normal = eje suprarrenal produciendo menos de lo esperado. Marcador clásico de estrés crónico sostenido. Cortisol y DHEA compiten por la misma vía metabólica (pregnenolona). |
+| **SHBG** | 55.0 nM/L | 10-50 | ⚠️ ALTO — Proteína que secuestra testosterona. Con SHBG elevado, la testosterona total (593 ng/dL) tiene menos biodisponibilidad real. Testosterona libre medida: 27.2 pg/mL (baja-media del rango 9-50). Causas comunes en atletas delgados: dieta alta en fibra, baja ingesta de grasas saturadas, ejercicio intenso. |
+| **HDL** | 40.5 mg/dL | >60 | ⚠️ BAJO RELATIVO — Zona de riesgo relativo (30-60). Para perfil atlético debería ser más alto. El ejercicio aeróbico normalmente sube el HDL — que esté bajo sugiere dieta pobre en grasas saludables. |
+| **LDH** | 113 UI/L | 140-271 | Bajo del rango — BUENA noticia. Significa poca destrucción celular, baja inflamación tisular. Sin sobreentrenamiento sistémico. |
+| **Transferrina** | 197 mg/dL | 200-360 | 3 puntos bajo el mínimo. Clínicamente irrelevante con hierro y ferritina normales. El cuerpo produce menos transferrina cuando los depósitos de hierro están bien. |
+| **Glicemia basal** | 73.5 mg/dL | 75-100 | Marginal. Muchos labs usan 70 como mínimo. Con HbA1c 5.1% e insulina 3.4, refleja sensibilidad a insulina de atleta de élite. |
+
+---
+
+#### 🟡 DENTRO DE RANGO, SUBÓPTIMO
+
+| Marcador | Resultado | Referencia | Interpretación |
+|----------|-----------|------------|----------------|
+| **Vitamina D** | 33.96 ng/mL | 20-100 | Suficiente (>20) pero óptimo funcional es 40-60 ng/mL. Impacta testosterona, estado de ánimo y rendimiento. Acción: 2,000-4,000 UI D3 diario. |
+| **Cortisol AM** | 12.15 ug/dL | 5-25 | Dentro del rango, pero peak matutino ideal es 15-20. Combinado con DHEA-S bajo, el eje suprarrenal produce menos de lo esperado para la edad. No es insuficiencia suprarrenal, pero el cuadro conjunto es llamativo. |
+| **TSH** | 2.664 uUI/mL | 0.270-4.200 | Normal clínico. Médicos funcionales prefieren <2.5 para optimizar. T4 libre en 1.02 está bien. No hay hipotiroidismo pero merece seguimiento. |
+| **Índice Col/HDL (Castelli)** | 4.3 | <5.0 | Técnicamente dentro del rango (óptimo <3.5). En zona de riesgo moderado principalmente por HDL bajo. Si HDL fuera 60+, este índice caería a ~2.9 (excelente). |
+| **Fosfatasa alcalina** | 45.7 U/L | 38-126 | Tercio bajo del rango. Puede asociarse a déficit de zinc. Agregar zinc sérico al próximo panel. |
+
+---
+
+#### ✅ EXCELENTE
+
+| Marcador | Resultado | Referencia | Por qué importa |
+|----------|-----------|------------|-----------------|
+| **Insulina basal** | 3.40 uUI/mL | 1.9-23 | Sensibilidad a insulina perfecta |
+| **HOMA-IR calculado** | 0.62 | <2.5 | Resistencia a insulina prácticamente nula. Óptimo <1.5 → 0.62 es excelente |
+| **HbA1c** | 5.1% | <5.7% | Control glucémico impecable (promedio últimos 3 meses) |
+| **VHS** | 2 mm/h | <7 | Inflamación sistémica casi nula |
+| **NLR calculado** | 1.1 | <2.0 | Neutrófilos 2.20 / Linfocitos 2.0 = 1.1. Marcador de inflamación crónica — excelente |
+| **GOT/AST** | 17.4 U/L | <50 | Hígado limpio |
+| **Triglicéridos** | 78 mg/dL | <150 | Metabolismo graso excelente |
+| **Testosterona total** | 593.95 ng/dL | 280-800 | Buen nivel para 26 años |
+| **LH** | 3.85 mUI/mL | 1.7-8.6 | Eje hipofisario-gonadal funcionando |
+| **FSH** | 5.12 mUI/mL | 1.5-12.4 | Normal |
+| **Estradiol** | 29.74 pg/mL | 7.63-42.6 | Rango óptimo masculino (20-30 pg/mL) |
+| **T4 libre** | 1.02 ng/dL | 0.61-1.12 | Tiroides produciendo bien |
+| **Hemoglobina** | 15.7 g/dL | 13-16 | Excelente transporte de oxígeno |
+| **ADE** | 12.7% | 12.1-16.2 | Mínimo del rango = glóbulos rojos muy uniformes → nutrición sin deficiencias |
+| **Ferritina** | 158.5 ng/mL | 20-250 | Reservas de hierro excelentes. Sin riesgo de anemia ferropénica |
+| **Saturación de transferrina** | 52.7% | 20-50% | Levemente sobre el rango — iron stores bien. No suplementar hierro |
+| **Albúmina** | 4.9 g/dL | 3.5-5.2 | Excelente estado nutricional y función hepática |
+
+---
+
+#### 🔑 ANÁLISIS HORMONAL INTEGRADO
+
+**Ratio Cortisol/DHEA-S:**
+El cortisol AM (12.15) está en el tercio bajo de su rango. El DHEA-S (220.2) está bajo el mínimo de 280. La relación cortisol:DHEA desequilibrada hacia el cortisol es el marcador más relevante de estrés crónico sostenido — incluso cuando el cortisol por sí solo parece normal. Carga de entrenamiento alta + sueño irregular + estrés = cuadro consistente.
+
+**Testosterona total vs libre con SHBG elevado:**
+- Total: 593.95 ng/dL (buena)
+- SHBG: 55 nM/L (elevada — secuestra más T de lo normal)
+- Libre medida: 27.2 pg/mL (rango medio-bajo dado el SHBG)
+- % libre calculado: ~2.05% (límite inferior del rango normal 1-3%)
+
+**Tiroides (panel incompleto):**
+TSH 2.664 (borderline funcional) + T4 libre 1.02 (bien). Falta T3 libre para cuadro completo. Agregar en próximo panel.
+
+---
+
+#### 📋 ACCIONES RECOMENDADAS (basadas en sangre)
+
+| Prioridad | Acción | Marcador que lo justifica |
+|-----------|--------|--------------------------|
+| ALTA | Vitamina D3 2,000-4,000 UI diario | Vitamina D 33.96 (óptimo 40-60) |
+| ALTA | Omega-3 2-3g EPA+DHA/día + aumentar grasas saludables en dieta | HDL 40.5 (bajo) |
+| ALTA | Zinc 15-25mg/día (con comida) | ALP 45.7 (baja) + SHBG elevado |
+| ALTA | Magnesio glicinato 200-400mg/noche | No medido, patrón de atleta intenso |
+| MEDIA | Hablar con Dr. Diocaretz sobre DHEA-S bajo (posible suplementación 25mg/día) | DHEA-S 220.2 vs mínimo 280 |
+| MEDIA | Agregar GPT/ALT, Creatinina, T3 libre, Zinc sérico, Magnesio, Homocisteína, hs-CRP al próximo panel | Cuadro incompleto |
+
+---
+
+#### 📊 PANEL COMPLETO — TODOS LOS VALORES (05-12-2025)
+
+| Examen | Resultado | Unidad | Ref Min | Ref Max | Estado |
+|--------|-----------|--------|---------|---------|--------|
+| Testosterona total | 593.95 | ng/dL | 280 | 800 | ✅ |
+| Testosterona libre | 27.2 | pg/mL | 9 | 50 | ✅ |
+| SHBG | 55.0 | nM/L | 10 | 50 | ⚠️ Alto |
+| LH | 3.85 | mUI/mL | 1.7 | 8.6 | ✅ |
+| FSH | 5.12 | mUI/mL | 1.5 | 12.4 | ✅ |
+| Estradiol | 29.74 | pg/mL | 7.63 | 42.6 | ✅ |
+| DHEA-S | 220.2 | ug/dL | 280 | 640 | ⚠️ Bajo |
+| Cortisol AM | 12.15 | ug/dL | 5 | 25 | ✅ bajo-normal |
+| TSH | 2.664 | uUI/mL | 0.27 | 4.2 | ✅ borderline |
+| T4 libre | 1.02 | ng/dL | 0.61 | 1.12 | ✅ |
+| Glicemia basal | 73.5 | mg/dL | 75 | 100 | ⚠️ marginal |
+| HbA1c | 5.1 | % | — | 5.7 | ✅ |
+| Insulina basal | 3.40 | uUI/mL | 1.9 | 23 | ✅ |
+| HOMA-IR calculado | 0.62 | — | — | 2.5 | ✅ |
+| Colesterol total | 176 | mg/dL | — | 200 | ✅ |
+| HDL | 40.5 | mg/dL | 60 | — | ⚠️ Bajo |
+| LDL | 120 | mg/dL | — | 130 | ✅ |
+| VLDL | 15.6 | mg/dL | 5 | 40 | ✅ |
+| Triglicéridos | 78 | mg/dL | — | 150 | ✅ |
+| Índice Col/HDL | 4.3 | — | — | 5.0 | ✅ subóptimo |
+| Eritrocitos | 5.13 | x10^6/uL | 4.06 | 5.63 | ✅ |
+| Hemoglobina | 15.7 | g/dL | 13 | 16 | ✅ |
+| Hematocrito | 45.9 | % | 40 | 54 | ✅ |
+| VCM | 89.5 | fL | 73 | 96.2 | ✅ |
+| HCM | 30.6 | pg | 23.8 | 33.4 | ✅ |
+| CHCM | 34.2 | g/dL | 32.5 | 36.3 | ✅ |
+| ADE | 12.7 | % | 12.1 | 16.2 | ✅ |
+| Leucocitos | 5.2 | x10^3/uL | 3.6 | 10.2 | ✅ |
+| Neutrófilos | 47 | % | 44 | 74 | ✅ |
+| Linfocitos | 40 | % | 15 | 43 | ✅ |
+| Monocitos | 10 | % | 5 | 14 | ✅ |
+| Eosinófilos | 3 | % | 1 | 8 | ✅ |
+| Basófilos | 0 | % | 0 | 2 | ✅ |
+| Neutrófilos abs | 2.20 | x10^3/uL | 2.0 | 7.0 | ✅ |
+| Linfocitos abs | 2.0 | x10^3/uL | 0.8 | 4 | ✅ |
+| NLR calculado | 1.1 | — | — | 2.0 | ✅ |
+| Plaquetas | 191 | x10^3/uL | 152 | 348 | ✅ |
+| VHS | 2 | mm/h | — | 7 | ✅ |
+| Ferritina | 158.5 | ng/mL | 20 | 250 | ✅ |
+| Ferremia | 149 | ug/dL | 70 | 180 | ✅ |
+| TIBC | 283 | ug/dL | 155 | 355 | ✅ |
+| Saturación Fe calc. | 52.7 | % | 20 | 50 | ⚠️ leve |
+| Transferrina | 197 | mg/dL | 200 | 360 | ⚠️ marginal |
+| Vitamina D 25-OH | 33.96 | ng/mL | 20 | 100 | ✅ subóptimo |
+| Proteínas totales | 7.2 | g/dL | 6.6 | 8.3 | ✅ |
+| Albúmina | 4.9 | g/dL | 3.5 | 5.2 | ✅ |
+| Bilirrubina total | 0.9 | mg/dL | 0.3 | 1.2 | ✅ |
+| Fosfatasa alcalina | 45.7 | U/L | 38 | 126 | ✅ bajo |
+| LDH | 113 | UI/L | 140 | 271 | ✅ bajo = bueno |
+| GOT/AST | 17.4 | U/L | — | 50 | ✅ |
+| Calcio | 9.4 | mg/dL | 8.8 | 10.6 | ✅ |
+| Fósforo | 4.0 | mg/dL | 2.5 | 4.5 | ✅ |
+| Ácido úrico | 5.5 | mg/dL | 3.4 | 7 | ✅ |
+| Uremia (BUN) | 29 | mg/dL | 0 | 50 | ✅ |
+
+> ⚠️ **Faltaron en este panel (agregar en próximo chequeo):** GPT/ALT, Creatinina, T3 libre, Zinc sérico, Magnesio sérico, Homocisteína, Proteína C reactiva ultrasensible (hs-CRP).
+
+---
+
 ## 2. Análisis del Perfil
 
 ### Lo que tenemos a favor (FORTALEZAS)
-- **⚡ Fuerza de dedos ELITE:** 164% BW (60kg por mano, Tindeq). Superas el benchmark de V10 por ~40%. Esta NO es tu limitante.
-- **Composición corporal elite:** 6.3% grasa es excelente para escalada. No necesitai bajar peso. Tu ratio músculo/grasa es brutal.
+- **⚡ Fuerza de dedos ELITE:** 162% BW (60kg por mano, Tindeq). Superas el benchmark de V10 por ~40%. Esta NO es tu limitante.
+- **Composición corporal atlética:** 12.4% grasa y 36.9kg SMM (músculo esquelético) — perfil atlético real. No necesitas bajar peso. Edad fisiológica 24 años (cronológica 26). Power-to-weight dedos: 162% BW (élite). Grasa concentrada en torso (4.8kg), brazos casi sin grasa (0.1-0.2kg). Composición medida por bioimpedancia Affinity TI 3.0 el 26 feb 2026.
 - **Hormonal sano:** Testosterona 593 ng/dL es buen rango para tu edad. Cortisol 12.15 µg/dL está en rango normal. Puedes recuperarte bien y ganar fuerza.
 - **6 años de experiencia:** Base técnica sólida. Ya no eres principiante. Sabemos que los gains ahora vienen de entrenamiento específico, no solo de escalar más [Fuente: Saeterbakken et al., 2024].
 - **Fortalezas en dinámicos y compresión:** Eso indica buena potencia y core. Base para V10.
 
 ### Lo que hay que mejorar (priorizado)
 
-> **⚠️ DATO CLAVE:** Con 164% BW de fuerza de dedos y solo V8 max, el gap entre tu fuerza y tu rendimiento es ENORME. Esto apunta a que tus limitantes son TÉCNICAS/TÁCTICAS, no de fuerza bruta. Tienes el motor de un auto de carreras pero necesitas aprender a manejarlo.
+> **⚠️ DATO CLAVE:** Con 162% BW de fuerza de dedos y solo V8 max, el gap entre tu fuerza y tu rendimiento es ENORME. Esto apunta a que tus limitantes son TÉCNICAS/TÁCTICAS, no de fuerza bruta. Tienes el motor de un auto de carreras pero necesitas aprender a manejarlo.
 
 1. **Slopers / Fuerza de contacto abierta:** Tu debilidad declarada. Indica falta de técnica y fuerza en POSICIÓN DE MANO ABIERTA. Aunque tus dedos son fuertes en crimpa, la mano abierta es otro mundo. Además, los slopers requieren posición corporal correcta (core, caderas bajo la presa) y confianza en el contacto.
 2. **Técnica y lectura de boulder:** Si tu fuerza es de V10+ pero solo escalas V8, la diferencia está en cómo te mueves. Lectura de secuencias, eficiencia de movimiento, técnica de pies, posición corporal.
@@ -645,9 +962,9 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 
 ## 9. Protocolo de Mantenimiento de Fuerza de Dedos
 
-> **⚠️ ACTUALIZACIÓN 23 FEB 2026: Protocolo de hangboard ELIMINADO del plan tras feedback de Maco. Con 164% BW de fuerza de dedos, hangboard no aporta mejoras y agrega carga innecesaria al SNC. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). La sección se mantiene como referencia pero está ARCHIVADA/DEPRECATED.**
+> **⚠️ ACTUALIZACIÓN 23 FEB 2026: Protocolo de hangboard ELIMINADO del plan tras feedback de Maco. Con 162% BW de fuerza de dedos, hangboard no aporta mejoras y agrega carga innecesaria al SNC. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). La sección se mantiene como referencia pero está ARCHIVADA/DEPRECATED.**
 
-> **⚠️ CORRECCIÓN IMPORTANTE (Feb 2026):** El assessment original registró 60kg de max hang asumiendo que era bilateral (82% BW). En realidad, Ben mide con **Tindeq** y tira **60kg POR MANO**. Total estimado: ~120kg = **164% BW**. Esto es nivel ELITE, muy por encima del benchmark de V10 (110-120% BW). Por lo tanto, este plan cambia de "progresión agresiva" a **PROTOCOLO DE MANTENIMIENTO**.
+> **⚠️ CORRECCIÓN IMPORTANTE (Feb 2026):** El assessment original registró 60kg de max hang asumiendo que era bilateral (82% BW). En realidad, Ben mide con **Tindeq** y tira **60kg POR MANO**. Total estimado: ~120kg = **162% BW**. Esto es nivel ELITE, muy por encima del benchmark de V10 (110-120% BW). Por lo tanto, este plan cambia de "progresión agresiva" a **PROTOCOLO DE MANTENIMIENTO**.
 
 ### ~~Filosofía: Mantener, No Progresar~~ → ARCHIVADO
 
@@ -656,7 +973,7 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 2. ~~**Redirigir** el tiempo que se gastaba en progresión de hangboard hacia SLOPERS y MANO ABIERTA~~
 3. ~~**No perder** fuerza durante las fases de resistencia y peak~~
 
-**ACTUALIZACIÓN:** Con 164% BW, la fuerza de dedos se mantiene con las sesiones de escalada (miércoles fuerza máxima + sábado outdoor). No se necesita hangboard. El tiempo se invierte en slopers, fuerza general, core, y recovery.
+**ACTUALIZACIÓN:** Con 162% BW, la fuerza de dedos se mantiene con las sesiones de escalada (miércoles fuerza máxima + sábado outdoor). No se necesita hangboard. El tiempo se invierte en slopers, fuerza general, core, y recovery.
 
 ### ~~Tabla de Mantenimiento~~ → ARCHIVADA
 
@@ -673,7 +990,7 @@ Hacer como circuito: todos los ejercicios seguidos, descanso entre rondas.
 | 9 | 33-36 | Escalada | Sin hangboard | Performance, solo escalar |
 | 10 | 37-40 | Escalada | Sin hangboard | Peak, proyectos V10 |
 
-> **Clave:** El hangboard ha sido ELIMINADO del plan. La fuerza de dedos (164% BW) se mantiene con las sesiones de escalada. Todo el tiempo se invierte en lo que realmente limita: slopers, técnica, lectura, y resistencia.
+> **Clave:** El hangboard ha sido ELIMINADO del plan. La fuerza de dedos (162% BW) se mantiene con las sesiones de escalada. Todo el tiempo se invierte en lo que realmente limita: slopers, técnica, lectura, y resistencia.
 
 ### Protocolo Detallado de Max Hang (para Fases 2-5)
 
@@ -836,7 +1153,7 @@ Basado en el libro de Arno Ilgner "Guerreros de la Roca: Entrenamiento Mental pa
 
 ### 12.1 Nutrición Base
 
-Con tu composición corporal (6.3% grasa, 40.8kg músculo), no necesitas hacer dieta. Tu objetivo es **mantener peso mientras ganas fuerza** (recomposición corporal mínima necesaria).
+Con tu composición corporal (12.4% grasa, 36.9kg SMM), no necesitas hacer dieta. Tu objetivo es **mantener peso mientras ganas fuerza** (recomposición corporal mínima necesaria).
 
 **Macros recomendados:**
 
@@ -860,13 +1177,15 @@ Con tu composición corporal (6.3% grasa, 40.8kg músculo), no necesitas hacer d
 
 ### 12.2 Suplementos (solo los que tienen evidencia)
 
-| Suplemento | Dosis | Evidencia | Prioridad |
-|------------|-------|-----------|-----------|
-| Creatina monohidrato | 3-5g/día | Fuerte para fuerza y potencia | ALTA |
-| Vitamina D | 2000-4000 IU/día | Si vives en Santiago y entrenas indoor | MEDIA |
-| Omega-3 | 2-3g EPA+DHA/día | Anti-inflamatorio, recovery | MEDIA |
-| Magnesio | 200-400mg/noche | Sueño, recuperación muscular | MEDIA |
-| Colágeno + Vit C | 15g + 50mg, 30 min pre-escalada | Emergente para salud de tendones | BAJA-MEDIA |
+| Suplemento | Dosis | Evidencia | Prioridad | Justificación de sangre |
+|------------|-------|-----------|-----------|------------------------|
+| Vitamina D3 | 2,000-4,000 UI/día | Fuerte | ALTA ✅ | Vitamina D 33.96 (óptimo 40-60) |
+| Omega-3 (EPA+DHA) | 2-3g/día | Fuerte | ALTA ✅ | HDL 40.5 (bajo) — omega-3 sube HDL |
+| Zinc | 15-25mg/día (con comida) | Moderada | ALTA ✅ | ALP 45.7 (bajo-normal) + SHBG elevado — zinc puede bajar SHBG |
+| Magnesio glicinato | 200-400mg/noche | Moderada | ALTA ✅ | No medido, común en atletas intensos — mejora sueño y recovery |
+| Creatina monohidrato | 3-5g/día | Fuerte | MEDIA | Fuerza y potencia |
+| DHEA | 25mg/día (con médico) | Moderada | MEDIA ⚠️ | DHEA-S 220.2 (bajo de 280 mínimo) — discutir con Dr. Diocaretz |
+| Colágeno + Vit C | 15g + 50mg pre-escalada | Emergente | BAJA-MEDIA | Salud de tendones |
 
 > **Nota sobre creatina:** Puede causar un aumento de 1-2kg de peso por retención de agua. En escalada esto preocupa a algunos. Sin embargo, el beneficio en fuerza y potencia supera el costo del peso extra para la mayoría de los escaladores. Evalúa caso a caso.
 
@@ -981,9 +1300,9 @@ La escalada trad es donde el componente mental de Ilgner se vuelve MÁS relevant
 
 **¿Qué necesitas hacer para escalar V10?**
 
-1. **Slopers y mano abierta es PRIORIDAD #1.** Tu fuerza en crimpa es elite (164% BW), pero los slopers te limitan. Trabajo específico de contacto abierto, técnica de presión, y posición corporal en cada sesión.
+1. **Slopers y mano abierta es PRIORIDAD #1.** Tu fuerza en crimpa es elite (162% BW), pero los slopers te limitan. Trabajo específico de contacto abierto, técnica de presión, y posición corporal en cada sesión.
 2. **Técnica y lectura de boulder.** Con tu fuerza deberías escalar más duro. El gap es técnico: pies, lectura, eficiencia de movimiento, secuencias.
-3. **Hangboard ELIMINADO.** Con 164% BW, hangboard no aporta. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). El tiempo se invierte en slopers, fuerza general, core, y recovery.
+3. **Hangboard ELIMINADO.** Con 162% BW, hangboard no aporta. La fuerza de dedos se mantiene con las sesiones de escalada (miércoles + sábado). El tiempo se invierte en slopers, fuerza general, core, y recovery.
 4. **Aprende a respirar en la ruta.** Práctica diaria + integración en sesiones.
 5. **Entrena tu cabeza.** Guerreros de la Roca no es decoración — es parte del plan.
 6. **Descansa lo suficiente.** La supercompensación ocurre en el descanso. Cada 4ta semana es descarga.
